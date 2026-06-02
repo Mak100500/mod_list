@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "maxFallingBlocks": 50,
+  "spawnProbabilityPercent": 30,
+  "minHorizontalSpeedPercent": 30,
+  "maxHorizontalSpeedPercent": 70,
+  "minUpwardForcePercent": 10,
+  "maxUpwardForcePercent": 30,
+  "allowUnbreakableBlocks": false,
+  "randomRotation": true,
+  "enableScreenShake": true,
+  "baseShakeStrength": 0.4,
+  "maxShakeStrength": 1.0,
+  "shakeRadius": 20.0,
+  "minShakeDurationTicks": 10,
+  "maxShakeDurationTicks": 60,
+  "shakeScalesWithPower": true,
+  "shakeIntensityMultiplier": 1.0,
+  "playRingingSound": false,
+  "debugLogging": false
+}

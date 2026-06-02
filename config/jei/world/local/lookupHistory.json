@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_power_loader:empty_andesite_chunk_loader"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:respawn_anchor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_power_loader:empty_brass_chunk_loader"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_power_loader:brass_chunk_loader"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
