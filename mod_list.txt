@@ -101,6 +101,7 @@ ferritecore-7.0.3-neoforge.jar
 formicapi-1.21.1-2.2.5.jar
 fusion-1.2.12-neoforge-mc1.21.1.jar
 GlitchCore-neoforge-1.21.1-2.1.0.2.jar
+globalpacks-neoforge-1.21.1-21.0.6.jar
 gravestone-neoforge-1.21.1-1.0.37.jar
 handcrafted-neoforge-1.21.1-4.0.3.jar
 hardcorerevival-neoforge-1.21.1-21.1.14.jar
@@ -118,8 +119,10 @@ lithostitched-1.7.9-neoforge-21.1.jar
 mechanicals-1.21.1-1.1.0.jar
 modernfix-neoforge-5.27.11%2Bmc1.21.1.jar
 mod_list.txt
+moonlight-neoforge-1.21.1-3.0.16.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1.jar
+nutritionalbalance-1.21.1-7.0.3.jar
 oceansdelight-neoforge-1.0.4-1.21.1.jar
 open-parties-and-claims-neoforge-1.21.1-0.26.3.jar
 powergrid-mc1.21.1-0.5.5.1.jar
@@ -149,6 +152,8 @@ tfmg-1.2.0.jar
 tracks-neoforge-1.21.1-1.0.1.jar
 travelersbackpack-neoforge-1.21.1-10.1.36.jar
 VeggiesDelight-1.21.1-1.9.2.jar
+vista-neoforge-1.21.1-4.4.9.jar
+VistaAeronauricsFix-1.0.1.jar
 WI-Zoom-1.6-MC1.21.1-NeoForge.jar
 worldedit-mod-7.3.8.jar
 xaerominimap-neoforge-1.21.1-25.3.13.jar
