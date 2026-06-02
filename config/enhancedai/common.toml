@@ -237,7 +237,7 @@
 		#Percentage chance for a Creeper to ignore walls while targeting a player. This means that a creeper will be able to explode if it's in the correct range from a player even if there's a wall between.
 		# Default: 0.65
 		# Range: 0.0 ~ 1.0
-		"Ignore walls chance" = 0.65
+		"Ignore walls chance" = 0.8
 		#Makes creepers blow up on death like when they were added back in 0.30
 		#Allowed Values: NONE, CHARGED, ALL
 		"Blow up on death" = "CHARGED"
@@ -248,7 +248,7 @@
 			#Percentage chance for a Creeper to keep walking while exploding. This is overwritten if the creeper has the beta property.
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			Chance = 0.1
+			Chance = 0.5
 			#Speed modifier when a walking fuse creeper is swelling.
 			# Default: -0.5
 			# Range: -1.0 ~ 64.0
@@ -258,7 +258,7 @@
 			#Breaching creepers will try to open a hole in the wall to let mobs in.
 			# Default: 0.075
 			# Range: 0.0 ~ 1.0
-			Chance = 0.075
+			Chance = 0.7
 			#How far away (horizontally) from the target breaching creepers can breach.
 			# Default: 24
 			# Range: > 0
@@ -268,13 +268,13 @@
 			#Creepers with beta strafing will walk around the target, like the in pre-1.2. This takes precedence over walking fuse.
 			# Default: 0.35
 			# Range: 0.0 ~ 1.0
-			Chance = 0.35
+			Chance = 0.4
 
 		[Creepers."Creeper swell".Angry]
 			#Chance for a creeper to spawn angry
 			# Default: 0.03
 			# Range: 0.0 ~ 1.0
-			Chance = 0.03
+			Chance = 0.4
 			#If true, Angry Creeper emits particles
 			Particles = true
 			#The special sound effect that the Angry Creeper plays
@@ -287,18 +287,18 @@
 			#Makes angry creepers blow up on death like when they were added back in 0.30
 			"Explode on death" = true
 			#If true, Angry Creeper explosion will generate fire
-			Fire = false
+			Fire = true
 			#Explosion power of Angry Creeper
 			# Default: 4.0
 			# Range: 0.0 ~ 12.0
-			"Explosion power" = 4.0
+			"Explosion power" = 6.0
 
 	#Creepers can ignite and throw themselves at players. Only entity types in the enhancedai:creeper/can_launch tag will be affected by this feature.
 	[Creepers."Creeper launch"]
 		#Launching creepers will try ignite and throw themselves at the player. Only creepers in the enhancedai:creeper/can_launch
 		# Default: 0.05
 		# Range: 0.0 ~ 1.0
-		Chance = 0.05
+		Chance = 0.2
 		#If true, Launching Creepers emit particles
 		Particles = true
 		#The explosion radius of launching creepers. Set to 0 to not change. (Overrides Cena creepers explosion radius)
@@ -322,7 +322,7 @@
 	[Creepers."Tnt like creepers"]
 		# Default: 0.25
 		# Range: 0.0 ~ 1.0
-		Chance = 0.25
+		Chance = 0.3
 
 [Spiders]
 	"Enable Stuck fix" = true
@@ -524,7 +524,7 @@
 	#Makes drowned swim speed based off swim speed attribute instead of movement speed.
 	"Enable Swimmers" = true
 	#Makes mobs be able to leap over a few blocks. Only entity types in the `enhancedai:mobs/can_parkour` tag can leap.
-	"Enable Parkour" = false
+	"Enable Parkour" = true
 	#Makes mobs ride other mobs. Mobs in the `enhancedai:mobs/riding/can_be_mounted` tag will be able to be mounted, while mobs in the `enhancedai:mobs/riding/can_mount` tag will be able to mount other mobs.
 	"Enable Riding" = true
 	#Makes mobs panic when on fire.
@@ -537,7 +537,7 @@
 	#Mobs can mine blocks to reach the target. Uses offhand item to mine. Only mobs in the entity type tag enhancedai:mobs/can_mine can spawn with the ability to mine and blocks in the tag enhancedai:miner_blacklist cannot be mined. This feature also adds the block reach attribute to all entities.
 	"Enable Miner mobs" = true
 	#Endermen will make the player's item fall from his hands. Add/remove mobs via the enhancedai:mobs/can_disrupt_item entity type tag
-	"Enable Item disruption" = false
+	"Enable Item disruption" = true
 	#Make mobs flee from the target. Use the enhancedai:mobs/can_flee entity type tag to add/remove entities that are affected by this feature. Mobs like animals have they're own feature for fleeing the target due to having different conditions.
 	"Enable Flee target" = true
 	#Mobs will run away from exploding creepers / TNT. Only entity types in `enhancedai:mobs/can_run_from_explosions` tag will be affected by this feature
@@ -595,7 +595,7 @@
 			Normal = 0.05
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			Hard = 0.1
+			Hard = 0.3
 
 	#Makes mobs teleport other mobs close to the target. Mobs in the `enhancedai:mobs/teleport_to_target/can_be_teleported` tag will be able to be picked up, while mobs in the `enhancedai:mobs/teleport_to_target/can_teleport` tag will be able to pick up other mobs.
 	[Mobs."Teleport to target"]
@@ -708,7 +708,7 @@
 	[Mobs.Sprint]
 		# Default: 0.25
 		# Range: 0.0 ~ 1.0
-		Chance = 0.25
+		Chance = 0.9
 
 	#Change how mobs target players. Check the config options below for entity type tags.
 	[Mobs.Targeting]
@@ -909,7 +909,7 @@
 		#Chance for a mob in the entity type tag enhancedai:can_be_miner to spawn with the miner ability
 		# Default: 0.07
 		# Range: 0.0 ~ 1.0
-		"Miner chance" = 0.07
+		"Miner chance" = 0.6
 		#NONE: No item is required. ANY_TOOL: Any item that can break blocks in the off-hand is required. CORRECT_TOOL_FOR_REQUIRED: The mob is able to mine any blocks that don't require a tool, and require a tool for blocks that require it (e.g. can always mine dirt but can't mine stone). CORRECT_TOOL_FOR_ANY_BLOCK: The mob can only mine blocks if the tool is the right one for the block (e.g. can mine dirt only with a shovel).
 		#Allowed Values: NONE, ANY_TOOL, CORRECT_TOOL_FOR_REQUIRED, CORRECT_TOOL_FOR_ANY_BLOCK
 		"Tool requirement" = "CORRECT_TOOL_FOR_REQUIRED"
@@ -1001,7 +1001,7 @@
 		#Chance for a mob to become a leader. Leader mobs have a high chance to spawn reinforcements.
 		# Default: 0.03
 		# Range: 0.0 ~ 1.0
-		"Leader chance" = 0.03
+		"Leader chance" = 0.06
 		#At this damage, the chance to spawn reinforcements is 100% of the attribute, otherwise is scaled. E.g. with this set to 6 and enhancedai:spawn_reinforcements_chance attribute set to 0.5 the chance to spawn reinforcements is 50% at 6 damage, 25% at 3 damage or 100% at 12 damage. Set to 0 to disable scaling with damage. This is damage before resistances (armor, etc).
 		# Default: 6.0
 		# Range: 0.0 ~ 1.7976931348623157E308
@@ -1054,7 +1054,7 @@
 
 	#Gives mobs a chance to negate damage when equipped with a shield. Only entity types in `enhancedai:mobs/can_equip_shield` tag will be equipped a shield.
 	[Mobs.Shielding]
-		"Chance to equip" = 0.08
+		"Chance to equip" = 0.2
 
 [Villagers]
 	#Villagers will alert Iron Golems and Village Guards when panicking
@@ -1071,7 +1071,7 @@
 	#Make villagers fight back. Use the enhancedai:villager/can_attack type tag to add more villagers, only works with entities that extend vanilla Villagers. Attack damage can't be changed via config due to limitation so use mods like Mobs Properties Randomness to change the damage. Base damage is 4.
 	[Villagers."Villager attacking"]
 		#If true, villagers will attack back monsters
-		"Villagers fight back enemies" = false
+		"Villagers fight back enemies" = true
 		#Villagers will only attack players that have below this reputation (like Iron Golems by default). https://minecraft.wiki/w/Villager#Gossiping
 		# Default: -100
 		# Range: > -2147483648

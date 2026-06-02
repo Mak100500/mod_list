@@ -110,15 +110,15 @@
 	#Server ticks between Create machine radiation scans near players.
 	# Default: 40
 	# Range: 10 ~ 200
-	scanInterval = 40
+	scanInterval = 200
 	#Block radius around each player scanned for Create machines with radioactive inventories.
 	# Default: 32
 	# Range: 2 ~ 96
-	machineScanRadius = 32
+	machineScanRadius = 2
 	#Chunk radiation leaked by Create pipe collisions/spills involving radioactive fluids.
 	# Default: 1.2
 	# Range: 0.0 ~ 1000.0
-	pipeLeak = 1.2
+	pipeLeak = 0.0
 
 	[createIntegration.kinetics]
 		#Maximum Create kinetic speed allowed by Create Nuclear Tech before steel-tier engineering is required.
