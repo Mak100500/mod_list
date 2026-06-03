@@ -789,14 +789,6 @@
     "curseForgeHash": 2332909618,
     "modrinthHash": "c594e20659b73a67bd0b0c2de45b29b78a2eb160"
   },
-  "createbetterpumps-0.0.3.jar": {
-    "jarName": "createbetterpumps-0.0.3.jar",
-    "modId": "createbetterpumps",
-    "name": "CreateBetterPumps",
-    "version": "0.0.3",
-    "curseForgeHash": 3301663385,
-    "modrinthHash": "467c07c594cc34a0763592384405692d544b4662"
-  },
   "createbigcannons-5.11.5+mc.1.21.1.jar": {
     "jarName": "createbigcannons-5.11.5+mc.1.21.1.jar",
     "modId": "createbigcannons",
@@ -1011,14 +1003,6 @@
     "version": "0.7.1",
     "curseForgeHash": 3410895465,
     "modrinthHash": "0bb3c96b6930f1ab547096e402f6494dc1ba5874"
-  },
-  "creatingspace-1.21.1-1.7.19.jar": {
-    "jarName": "creatingspace-1.21.1-1.7.19.jar",
-    "modId": "creatingspace",
-    "name": "Creating Space",
-    "version": "1.7.19",
-    "curseForgeHash": 3104021039,
-    "modrinthHash": "c903ac4f186096964dc613e7bf55028bbaa2ef56"
   },
   "crowns-1.21.1-2.1.6.jar": {
     "jarName": "crowns-1.21.1-2.1.6.jar",
