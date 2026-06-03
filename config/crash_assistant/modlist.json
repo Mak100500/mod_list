@@ -1,9 +1,9 @@
 {
-  "neoforge-21.1.232 (modloader)": {
-    "jarName": "neoforge-21.1.232 (modloader)",
+  "neoforge-21.1.233 (modloader)": {
+    "jarName": "neoforge-21.1.233 (modloader)",
     "modId": "neoforge",
     "name": "neoforge",
-    "version": "neoforge-21.1.232"
+    "version": "neoforge-21.1.233"
   },
   "[1.21.1] SecurityCraft v1.10.1.jar": {
     "jarName": "[1.21.1] SecurityCraft v1.10.1.jar",
@@ -44,6 +44,30 @@
     "version": "1.2.9",
     "curseForgeHash": 550344399,
     "modrinthHash": "cc5520360f0ce1028fb9a946e3a6e055c73ad3a1"
+  },
+  "alexs-mobs-extra-music-1.1.0.jar": {
+    "jarName": "alexs-mobs-extra-music-1.1.0.jar",
+    "modId": "mr_alexs_mobsextramusic",
+    "name": "Alex\u0027s Mobs Extra Music",
+    "version": "1.1.0",
+    "curseForgeHash": 701630979,
+    "modrinthHash": "85ce1565edf8d1d8435155952ccbe915adf5c1f8"
+  },
+  "alexscaves-2.0.10.jar": {
+    "jarName": "alexscaves-2.0.10.jar",
+    "modId": "alexscaves",
+    "name": "Alex\u0027s Caves",
+    "version": "2.0.10",
+    "curseForgeHash": 1053475531,
+    "modrinthHash": "366ddaac40f14cd0102f026b4d999753fc1db2a4"
+  },
+  "alexsmobs-1.22.17.jar": {
+    "jarName": "alexsmobs-1.22.17.jar",
+    "modId": "alexsmobs",
+    "name": "Alex\u0027s Mobs",
+    "version": "1.22.17",
+    "curseForgeHash": 2359244830,
+    "modrinthHash": "5070e8070f60650d773bfd9f1d031496f8f50259"
   },
   "alloyed-3.0.9%2B1.21.1-neoforge.jar": {
     "jarName": "alloyed-3.0.9%2B1.21.1-neoforge.jar",
@@ -196,6 +220,14 @@
     "version": "4.0.2",
     "curseForgeHash": 527531260,
     "modrinthHash": "6f5395f58139802edfde7cb9170279f92f291971"
+  },
+  "citadel-1.21.1-2.7.6.jar": {
+    "jarName": "citadel-1.21.1-2.7.6.jar",
+    "modId": "citadel",
+    "name": "Citadel",
+    "version": "2.7.6",
+    "curseForgeHash": 3647258928,
+    "modrinthHash": "e0392370117ec16a721f8d65728944398de77607"
   },
   "ColdSweat-2.4.jar": {
     "jarName": "ColdSweat-2.4.jar",
@@ -444,6 +476,14 @@
     "version": "2.4.1",
     "curseForgeHash": 3071431755,
     "modrinthHash": "dfe9e97a36415e752e3888909d081e092a3fd02a"
+  },
+  "create_submarine-2.1.3.jar": {
+    "jarName": "create_submarine-2.1.3.jar",
+    "modId": "create_submarine",
+    "name": "Create Deep Seas",
+    "version": "2.1.3",
+    "curseForgeHash": 2468150996,
+    "modrinthHash": "c31cc8f482711aaa2796bd6e45d53c8a5d4b75c7"
   },
   "create_the_air_wars-4.01.jar": {
     "jarName": "create_the_air_wars-4.01.jar",
@@ -828,6 +868,14 @@
     "version": "1.21.1-1.0.37",
     "curseForgeHash": 4168092483,
     "modrinthHash": "4120452fb038e7781367774a10093c8767cc4c1b"
+  },
+  "gravestone_sable_compat-1.0.0.jar": {
+    "jarName": "gravestone_sable_compat-1.0.0.jar",
+    "modId": "gravestone_sable_compat",
+    "name": "Gravestone Sable Compat",
+    "version": "1.0.0",
+    "curseForgeHash": 4185636602,
+    "modrinthHash": "e85ce99d0a777794f7b7e3eb955dd1eea28a8073"
   },
   "handcrafted-neoforge-1.21.1-4.0.3.jar": {
     "jarName": "handcrafted-neoforge-1.21.1-4.0.3.jar",
