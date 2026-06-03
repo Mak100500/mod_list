@@ -1,0 +1,26 @@
+#Whether mobs should spawn with Rusty Armor or not
+mobsRustyArmor = true
+#Whether Superheated Blazes should spawn or not
+spawnSuperBlaze = true
+#Whether Aluminum Ore should generate or not
+generateAluminum = true
+#Whether Silver Ore should generate or not
+generateSilver = true
+#Whether Platinum Ore should generate or not
+generatePlatinum = true
+#Whether Salt Ore should generate or not
+generateSalt = true
+#Whether Sulfur Ore should generate or not
+generateSulfur = true
+#Whether Apatite Ore should generate or not
+generateApatite = true
+#Whether Niter Ore should generate or not
+generateNiter = true
+#Whether Lead Ore should generate or not
+generateLead = true
+#Whether Tin Ore should generate or not
+generateTin = true
+#Whether Nickel Ore should generate or not
+generateNickel = true
+#Whether Uranium Ore should generate or not
+generateUranium = true

@@ -1,0 +1,29 @@
+filename = 'createblockchain-1.0.2.jar'
+name = 'Create: Blockchain'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2'
+
+[download]
+hash = 'adbb9a8071e761fb23a78ad2e97cd1fe68729ab712ce05dd1807345b8409cca92eb83de6d85c2ad33df699c55e48a74fd009f10249099470ce035561c05e9e48'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FqqlztK7/versions/AZNYSImQ/createblockchain-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'FqqlztK7'
+version = 'AZNYSImQ'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kU1G12Nn'
+type = 'REQUIRED'

@@ -62,6 +62,11 @@
   "create_mechanical_spawner": {
     "data": true
   },
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
+  },
   "createsifter": {
     "data": true
   },
@@ -88,5 +93,17 @@
     "entity_info": true,
     "block_info": true,
     "showcustomname": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
   }
 }

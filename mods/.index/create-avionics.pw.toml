@@ -1,0 +1,18 @@
+filename = 'create_avionics-neoforge-1.21.1-0.4.0.jar'
+name = 'Create: Avionics — ComputerCraft for Aeronautics'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '0.4.0'
+
+[download]
+hash = '4ffaacdc939ffde2f70a50cdb1ac0a1039ef40fd8116f89fc5831a887f952e2db1e13402b8aefc1f414b3c0e8b478c7a37bdb830a52604a2d424b8de371010a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h4nsLvjf/versions/kd30bl6Y/create_avionics-neoforge-1.21.1-0.4.0.jar'
+
+[update.modrinth]
+mod-id = 'h4nsLvjf'
+version = 'kd30bl6Y'
