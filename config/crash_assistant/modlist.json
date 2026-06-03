@@ -573,14 +573,6 @@
     "curseForgeHash": 430897864,
     "modrinthHash": "de1f363ef0ec8aeb6a9dedc1f3d8b3e224400895"
   },
-  "create_designed_decor-4.0.0-prerelease-1-neoforge-1.21.1.jar": {
-    "jarName": "create_designed_decor-4.0.0-prerelease-1-neoforge-1.21.1.jar",
-    "modId": "create_designed_decor",
-    "name": "Create Designed Decor",
-    "version": "4.0.01",
-    "curseForgeHash": 1843761917,
-    "modrinthHash": "6e50e34f2c176a9d18b01011c642c41f434a513d"
-  },
   "create_ez_stock_ticker-1.0.4.jar": {
     "jarName": "create_ez_stock_ticker-1.0.4.jar",
     "modId": "create_ez_stock_ticker",
@@ -813,14 +805,6 @@
     "curseForgeHash": 3867275525,
     "modrinthHash": "e2b81eab4edfaa4aefa774e7a804a05a240d697d"
   },
-  "createblockchain-1.0.2.jar": {
-    "jarName": "createblockchain-1.0.2.jar",
-    "modId": "createblockchain",
-    "name": "Create: Blockchain",
-    "version": "1.0.2",
-    "curseForgeHash": 196096627,
-    "modrinthHash": "fdaef9bcab4e1154d034cf1c4af4ffd02f84f10f"
-  },
   "createcclogistics-1.21.1-0.3.6.jar": {
     "jarName": "createcclogistics-1.21.1-0.3.6.jar",
     "modId": "createcclogistics",
@@ -859,14 +843,6 @@
     "version": "2.1.3",
     "curseForgeHash": 2186625105,
     "modrinthHash": "93d9eff58b46c6953e907d071e6be4e3ce07be38"
-  },
-  "createdefensive-1.21.1-1.11.1.jar": {
-    "jarName": "createdefensive-1.21.1-1.11.1.jar",
-    "modId": "createdefensive",
-    "name": "Create: Defensive",
-    "version": "1.21.1-1.11.1",
-    "curseForgeHash": 3232271166,
-    "modrinthHash": "5f1d3fcd9eaf054ccb61f2035ae6ff5f353ebf2e"
   },
   "CreateDragonsPlus-1.10.1.jar": {
     "jarName": "CreateDragonsPlus-1.10.1.jar",
