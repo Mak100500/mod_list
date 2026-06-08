@@ -1,6 +1,7 @@
 /*
 
 *.bak
+kubejs/exported/
 
 !.gitignore
 !/config/
