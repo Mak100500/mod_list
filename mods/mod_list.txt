@@ -39,6 +39,7 @@ cmpackagecouriers-neoforge-2.3.0.jar
 cmpackagepipebomb-neoforge-2.1.0.jar
 cmparallelpipes-neoforge-2.0.2.jar
 ColdSweat-2.4.jar
+configuration-neoforge-1.21.1-3.1.1.jar
 copycats-3.0.4%2Bmc.1.21.1-neoforge.jar
 Corgilib-NeoForge-1.21.1-5.0.0.9.jar
 coroutil-neoforge-1.21.0-1.3.9.jar
@@ -65,7 +66,6 @@ createaddoncompatibility-neoforge-1.21.1-1.0.0.jar
 CreateAeronauticsCopycatWing-1.21.1-1.0.1.jar
 createbb-4.0.1.jar
 createbetterfps-1.21.1-1.1.4.jar
-createbetterpumps-0.0.3.jar
 createbigcannons-5.11.5+mc.1.21.1.jar
 createcclogistics-1.21.1-0.3.6.jar
 createclothes-1.0-1.21.1.jar
@@ -105,7 +105,6 @@ create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar
 create_ez_stock_ticker-1.0.4.jar
 create_factory_logistics-1.21.1-1.4.9.jar
 create_fantasizing-1.21.1-1.1.3.jar
-create_furnitures-1.1.2-neoforge-1.21.1.jar
 create_hypertube-0.4.0-COMPAT-NEOFORGE.jar
 create_ironworks-4.0.3-neoforge-1.21.1.jar
 create_jetpack-forge-5.1.2.jar
@@ -123,7 +122,6 @@ create_the_air_wars-4.01.jar
 create_things_and_misc-4.1.0-neoforge-1.21.1.jar
 create_ultimate_factory-2.2.4-neoforge-1.21.1.jar
 create_vibrant_vaults-0.3.2.jar
-creatingspace-1.21.1-1.7.19.jar
 crowns-1.21.1-2.1.6.jar
 culturaldelights-0.17.8.jar
 CustomSkinLoader_Universal-14.28.jar
@@ -173,7 +171,6 @@ moreburners-1.21.1-0.3.6.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
 nemos-inventory-sorting-NeoForge-1.21.1-1.8.2.1.jar
 Northstar-0.5.4+1.21.1.jar
-nutritionalbalance-1.21.1-7.0.3.jar
 oceansdelight-neoforge-1.0.4-1.21.1.jar
 open-parties-and-claims-neoforge-1.21.1-0.26.3.jar
 pantographsandwires-neoforge-1.21.1-beta-0.2.2-C6.jar
@@ -190,12 +187,14 @@ SereneSeasons-neoforge-1.21.1-10.1.0.3.jar
 sliceanddice-forge-4.2.4.jar
 sodium-extra-neoforge-0.6.0+mc1.21.1.jar
 sodium-neoforge-0.6.13+mc1.21.1.jar
+sound-physics-remastered-neoforge-1.21.1-1.5.1.jar
 spark-1.10.124-neoforge.jar
 supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
 supermartijn642corelib-1.1.21-neoforge-mc1.21.jar
 s_a_b-1.4.3-neoforge-1.21.1.jar
 tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar
 tacz_c-1.0.2%2Bneoforge.1.21.1.jar
+tarkovcraft_core-neoforge-2.5.1+1.21.1.jar
 tectonic-3.0.22-neoforge-21.1.jar
 TerraBlender-neoforge-1.21.1-4.1.0.8.jar
 Terralith_1.21.x_v2.5.8.jar

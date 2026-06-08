@@ -1156,14 +1156,6 @@
     "curseForgeHash": 2808038058,
     "modrinthHash": "9563692efb708b6b568df27a01ec52f6311928ef"
   },
-  "firstaid-1.2.6+neoforge1.21.1.jar": {
-    "jarName": "firstaid-1.2.6+neoforge1.21.1.jar",
-    "modId": "firstaid",
-    "name": "First Aid",
-    "version": "1.2.6+neoforge1.21.1",
-    "curseForgeHash": 618939690,
-    "modrinthHash": "d4e19fe0687f7d2e57256432ed16156e57c42bb5"
-  },
   "formicapi-1.21.1-2.2.5.jar": {
     "jarName": "formicapi-1.21.1-2.2.5.jar",
     "modId": "formicapi",
@@ -1336,14 +1328,6 @@
     "version": "1.7.9",
     "curseForgeHash": 1836586376,
     "modrinthHash": "2e0ad9125b0e19caa6c264e4512219bd022acb0d"
-  },
-  "marbledsfirstaid-1.21.1neo-1.2.1.0.jar": {
-    "jarName": "marbledsfirstaid-1.21.1neo-1.2.1.0.jar",
-    "modId": "marbledsfirstaid",
-    "name": "Marbled\u0027s First Aid",
-    "version": "1.2.1.0",
-    "curseForgeHash": 4205581038,
-    "modrinthHash": "beb70f9213dba3ab8420e478bdcda066d5b1d878"
   },
   "mechanicals-1.21.1-1.1.0.jar": {
     "jarName": "mechanicals-1.21.1-1.1.0.jar",
