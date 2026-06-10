@@ -1,7 +1,8 @@
 [
   {"version":1},
-  {"ingredient":{"id":"kubejs:energized_steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"kubejs:incomplete_energized_steel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:electrite_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:electrite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:incomplete_electrite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_new_age:overcharged_gold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createbigcannons:steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:shadow_steel"},"type":"item_stack","bookmarkType":"INGREDIENT"},

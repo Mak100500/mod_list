@@ -1425,6 +1425,14 @@
     "curseForgeHash": 638786877,
     "modrinthHash": "6b2691fab1a40995095814b019cb55cb0f7be610"
   },
+  "ProbeJS-8.0.2.jar": {
+    "jarName": "ProbeJS-8.0.2.jar",
+    "modId": "probejs",
+    "name": "ProbeJS",
+    "version": "8.0.2",
+    "curseForgeHash": 4207338400,
+    "modrinthHash": "1d7d75f040cf8f9b9bd7aa52a1ac5e82c3edb31f"
+  },
   "protection_pixel-2.2.1-neoforge-1.21.1.jar": {
     "jarName": "protection_pixel-2.2.1-neoforge-1.21.1.jar",
     "modId": "protection_pixel",

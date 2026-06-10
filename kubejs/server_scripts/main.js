@@ -2,20 +2,20 @@
 
 ServerEvents.recipes(event => {
 
+    
     const steelIngots = [
-        'createmetallurgy:steel_ingot',
-        'tfmg:steel_ingot',             
+        'createmetallurgy:steel_ingot', 
+        'tfmg:steel_ingot',           
         'createbigcannons:steel_ingot', 
-        'alloyed:steel_ingot',
+        'alloyed:steel_ingot',           
         'create_ironworks:steel_ingot'
     ]
 
-   // крафт плавки необработанного сплава с проверкой
+    
     steelIngots.forEach(steel => {
-
         if (Item.of(steel).id !== 'minecraft:air') {
             event.recipes.create.mixing(
-                'kubejs:incomplete_energized_steel', 
+                'kubejs:incomplete_electrite', 
                 [
                     steel, 
                     'createaddition:electrum_ingot'
@@ -24,28 +24,43 @@ ServerEvents.recipes(event => {
         }
     })
 
-   // крафт наэлектризованной стали
+   
     event.recipes.create.sequenced_assembly(
         [
-            Item.of('kubejs:energized_steel_ingot')
+            'kubejs:electrite_ingot' 
         ], 
-        'kubejs:incomplete_energized_steel', 
+        'kubejs:incomplete_electrite', 
         [
-        
-            event.recipes.createPressing('kubejs:incomplete_energized_steel', 'kubejs:incomplete_energized_steel'),
             
-          
-            event.recipes.createDeploying('kubejs:incomplete_energized_steel', [
-                'kubejs:incomplete_energized_steel', 
+            event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite'),
+            
+           
+            event.recipes.create.deploying('kubejs:incomplete_electrite', [
+                'kubejs:incomplete_electrite', 
                 'create_new_age:overcharged_gold'
             ]),
             
-          
-            event.recipes.createPressing('kubejs:incomplete_energized_steel', 'kubejs:incomplete_energized_steel')
+            
+            event.recipes.create.deploying('kubejs:incomplete_electrite', [
+                'kubejs:incomplete_electrite', 
+                'minecraft:redstone'
+            ]),
+            
+           
+            event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
         ]
     )
-    .transitionalItem('kubejs:incomplete_energized_steel')
-    .loops(1)
-    .id('kubejs:sequenced_assembly/energized_steel_ingot')
+    .transitionalItem('kubejs:incomplete_electrite') 
+    .loops(1) 
+    .id('kubejs:sequenced_assembly/electrite_ingot')
 
+})
+
+ServerEvents.tags('item', event => {
+    event.add('minecraft:cluster_max_harvestables', 'kubejs:electrite_pickaxe')
+    event.add('minecraft:picks', 'kubejs:electrite_pickaxe')
+})
+
+ServerEvents.tags('item', event => {
+    event.add('kubejs:electrite_ingot', 'kubejs:electrite_ingot')
 })
