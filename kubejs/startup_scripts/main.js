@@ -11,7 +11,7 @@ StartupEvents.registry('item', event => {
 
     // 2. ИНСТРУМЕНТЫ
 
-    // МЕЧ (В игре: Урон 9.0 / Скорость 2.0)
+    // МЕЧ
     event.create('electrite_sword', 'sword')
         .texture('kubejs:item/electrite_sword')
         .tier('netherite')
@@ -24,7 +24,7 @@ StartupEvents.registry('item', event => {
             tier.repairIngredient = '#kubejs:electrite_ingot'
         })
 
-    // ТОПОР (В игре: Урон 11.0 / Скорость 1.4)
+    // ТОПОР
     event.create('electrite_axe', 'axe')
         .texture('kubejs:item/electrite_axe')
         .tier('netherite')
@@ -37,7 +37,7 @@ StartupEvents.registry('item', event => {
             tier.repairIngredient = '#kubejs:electrite_ingot'
         })
 
-    // КИРКА (В игре: Урон 7.0 / Скорость 1.6)
+    // КИРКА
     event.create('electrite_pickaxe', 'pickaxe')
         .texture('kubejs:item/electrite_pickaxe')
         .tier('netherite')
@@ -50,7 +50,7 @@ StartupEvents.registry('item', event => {
             tier.repairIngredient = '#kubejs:electrite_ingot'
         })
 
-    // ЛОПАТА (В игре: Урон 7.5 / Скорость 1.4)
+    // ЛОПАТА
     event.create('electrite_shovel', 'shovel')
         .texture('kubejs:item/electrite_shovel')
         .tier('netherite')
@@ -63,7 +63,7 @@ StartupEvents.registry('item', event => {
             tier.repairIngredient = '#kubejs:electrite_ingot'
         })
 
-    // МОТЫГА (В игре: Урон 3.0 / Скорость 4.5)
+    // МОТЫГА
     event.create('electrite_hoe', 'hoe')
         .texture('kubejs:item/electrite_hoe')
         .tier('netherite')
