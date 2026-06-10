@@ -1,0 +1,9 @@
+{
+  "recipes": [
+    {
+      "input": ["item","minecraft:oak_log",1,4],
+      "stamp": "flat",
+      "output": ["hbmsntm:nothing"]
+    }
+  ]
+}

@@ -39776,110 +39776,6 @@
     "maxWaterDepth": 44,
     "implosionChance": 0.6333333
   },
-  "create_designed_decor:blueprint_pile": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:blueprint_table": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "create_designed_decor:cavestone": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:desk_1": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "create_designed_decor:desktop": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:electrical_panel": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:floor_miter_saw": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:metal_frame": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:microphone": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:miter_saw": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:pegboard": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:pressure_vessel": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:road_barrier": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:safety_sign": {
-    "maxWaterDepth": 52,
-    "implosionChance": 0.56
-  },
-  "create_designed_decor:small_brick_pallet": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:solar_cell": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:solar_panel_big": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:solarbase": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:solarcellpart": {
-    "maxWaterDepth": 52,
-    "implosionChance": 0.56
-  },
-  "create_designed_decor:steelblock": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:threekcake": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:tool_cabinet": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_designed_decor:traffic_cone": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:welding_station": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "create_designed_decor:workshop_floor_mat": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_designed_decor:wrenchly_box": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
   "create_dragons_plus:black_dye": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
@@ -40057,306 +39953,6 @@
     "implosionChance": 0.7
   },
   "create_fantasizing:transporter": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_angle_girder_facing_up": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_angle_girder_wide": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_angle_girder_wide_facing_up": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_chair": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_fence": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_fence_1_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_fence_2_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_fence_2_sides": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_fence_2_sides_model_2": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_fence_2_sides_model_3": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_fence_3_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_fence_4_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_pillar": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_pillar_1_base": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_pillar_1_middle": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_pillar_1_top": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_regular_fence": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_regular_fence_1_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_regular_fence_2_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_regular_fence_2_sides": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_regular_fence_3_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_regular_fence_4_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_solid_fence": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_solid_fence_1_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_solid_fence_2_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_solid_fence_2_sides": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_solid_fence_3_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_solid_fence_4_corner": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_table": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesite_tall_seat": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesiteanglegirder": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitebridgebottom": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitebridgetopcenter": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitefatpillarbase": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitefatpillarbaseup": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitefatpillarcolumn": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitefatpillartopcenter": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitefatpillartopcentreup": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitefatpillartopsidelong": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitefatpillartopsidemed": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitefatpillartopsideshort": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:andesitepillar_2middle": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:brass_chair": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:brass_pillar": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:brass_pillar_1_base": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:brass_pillar_1_middle": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:brass_pillar_1_top": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:brass_table": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:brass_tall_seat": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:copper_chair": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:copper_table": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:copper_tall_seat": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:industrialironfatpillarbase": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:industrialironfatpillarbaseup": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:industrialironfatpillarcolumn": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:industrialironfatpillartopcentre": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:industrialironfatpillartopcentreup": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:industrialironfatpillartopsidelong": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:industrialironfatpillartopsidemed": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:industrialironfatpillartopsideshort": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:railway_chair": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:railway_table": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:railway_tall_seat": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tall_andesite_pillar": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tall_andesite_pillar_1_lamp_global": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tall_andesite_pillar_base": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tall_andesite_pillartopside": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tallandesitepillar_2lamp": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tallandesitepillarbase_3": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tallandesitepillarbase_4": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tallandesitepillartop": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tallandesitepillartop_2lamp": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tallandesitepillartoplamp": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tallandesitepillartopmidlelamp": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "create_furnitures:tallandesitepillartopsidelamp": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
   },
@@ -42732,46 +42328,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "createbetterpumps:brass_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:diamond_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:gold_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:iron_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:large_cog_brass_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:large_cog_diamond_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:large_cog_gold_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:large_cog_iron_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:large_cog_wood_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "createbetterpumps:wood_pump": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
   "createbigcannons:ap_shell": {
     "maxWaterDepth": 30,
     "implosionChance": 0.74333334
@@ -43327,22 +42883,6 @@
   "createbigcannons:yaw_controller": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
-  },
-  "createblockchain:cryotheum_coolant_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createblockchain:currency_miner": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "createblockchain:mining_core_geode": {
-    "maxWaterDepth": 52,
-    "implosionChance": 0.56
-  },
-  "createblockchain:piggy_bank": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
   },
   "createcasing:acacia_cogwheel": {
     "maxWaterDepth": 21,
@@ -47434,926 +46974,6 @@
   },
   "createdeco:zinc_window_pane": {
     "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:acacia_truss": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:acetic_acid": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:air_trap": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:aluminum_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:aluminum_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:amethyst_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:ammonia": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:andesite_truss": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:apatite_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:benzene": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:birch_truss": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:bismuth_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:bismuth_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:bitumen": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:black_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:black_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:blast_catalyst": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:bleeding_obsidian": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:blue_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:blue_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:brass_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:brass_truss": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:bronze_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:brown_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:brown_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:bulletproof_glass": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:bulletproof_glass_pane": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:butane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:carbon_monoxide": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:caster": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:catalyst_crystal": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:centrifuge": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:chemical_explosive": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:chemical_warhead": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "createdefensive:cherry_truss": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:chlorine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:coking_oven": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:compact_industrial_iron_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:conventional_warhead": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "createdefensive:copper_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:copper_electrolysis_tank": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:copper_truss": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:creosote": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:crude_oil": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:cyan_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:cyan_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:dark_oak_truss": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:deepslate_aluminum_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:deepslate_apatite_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:deepslate_bismuth_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:deepslate_lead_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:deepslate_nickel_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:deepslate_niter_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:deepslate_platinum_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:deepslate_salt_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:deepslate_silver_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:deepslate_sulfur_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:deepslate_tin_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:deepslate_uranium_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:diamond_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:diesel": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:dirty_raw_crude_oil": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:electrolysis_controller": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:electrum_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:emerald_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:ethane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:ethylbenzene": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:ethylene": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:fire_grate": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:formaldehyde": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:fractional_still_controller": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:fractional_still_tank": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:gas_trap": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:gas_vent": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:gasoline": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:gray_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:gray_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:green_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:green_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:gunpowder_barrel": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "createdefensive:gunsteel_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:haunt_catalyst": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:high_power_explosive": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:hydrogen": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:incendiary_explosive": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:incendiary_warhead": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "createdefensive:industrial_iron_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:industrial_iron_truss": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:invar_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:irradiated_water": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:jungle_truss": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:kerosene": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:kinetic_machine": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:landmine": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:lapis_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:lead_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:lead_glass": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:lead_glass_pane": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "createdefensive:lead_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:light_blue_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:light_blue_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:light_gray_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:light_gray_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:lightning_trap": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:lime_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:lime_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:magenta_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:magenta_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:mangrove_truss": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:melter": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:methane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:methanol": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_aluminum": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_bismuth": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_brass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_bronze": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_copper": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_depleted_uranium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_electrum": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_fuel_grade_uranium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_gold": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_gunsteel": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_invar": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_iron": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_lead": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_netherite": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_nickel": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_pig_iron": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_platinum": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_polonium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_rose_gold": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_salt": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_silver": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_sodium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_staballoy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_steel": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_tin": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_uranium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_violet_gold": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_weapons_grade_uranium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:molten_zinc": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:mustard_gas": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:natural_gas": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:nickel_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:nickel_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:niter_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:nitric_acid": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:nitric_dioxide": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:nitric_oxide": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:nuclear_warhead": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "createdefensive:oak_truss": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:orange_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:orange_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:oxygen": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:oxygen_furnace": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:pink_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:pink_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:platinum_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:platinum_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:polonium_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:powdered_uranium_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:powdered_uranium_block_10": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:powdered_uranium_block_20": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:powdered_uranium_block_30": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:powdered_uranium_block_40": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:powdered_uranium_block_50": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:powdered_uranium_block_60": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:powdered_uranium_block_70": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:powdered_uranium_block_80": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:precision_machine": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:propane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:proximity_mine": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:purple_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:purple_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:quartz_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:raw_aluminum_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:raw_bismuth_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:raw_crude_oil": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:raw_lead_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:raw_natural_gas": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:raw_nickel_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:raw_platinum_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:raw_silver_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:raw_tin_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:raw_uranium_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:reactor": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:reactor_coolant_tank": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:reactor_resource_tank": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:red_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:red_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:redstone_crystal_block": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "createdefensive:redstone_machine": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:redstone_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:rose_gold_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:salt_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:silver_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:silver_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:slag_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:small_amethyst_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:small_diamond_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:small_emerald_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:small_lapis_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:small_quartz_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:small_redstone_tiles": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:smoke_catalyst": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:splash_catalyst": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:spruce_truss": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:staballoy_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:steam": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:steel_blast_furnace": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:steel_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:steel_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "createdefensive:styrene": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:sulfur_dichloride": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:sulfur_ore": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "createdefensive:superheated_irradiated_water": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "createdefensive:tar_sand": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "createdefensive:tin_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:tin_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:treated_oak_planks": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "createdefensive:uranium_block": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46
-  },
-  "createdefensive:uranium_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:violet_gold_block": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:white_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:white_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:yellow_asphalt": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createdefensive:yellow_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:zinc_blast_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createdefensive:zinc_electrolysis_tank": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "createdefensive:zinc_truss": {
-    "maxWaterDepth": 13,
     "implosionChance": 0.85
   },
   "createenchantablemachinery:enchantable_crushing_wheel": {
@@ -53716,90 +52336,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "createnucleartech:advanced_neutron_reflector": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:beryllium_ore": {
-    "maxWaterDepth": 41,
-    "implosionChance": 0.65533334
-  },
-  "createnucleartech:blast_furnace": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:charred_log": {
-    "maxWaterDepth": 11,
-    "implosionChance": 0.85
-  },
-  "createnucleartech:charred_planks": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "createnucleartech:cinnabar_ore": {
-    "maxWaterDepth": 34,
-    "implosionChance": 0.714
-  },
-  "createnucleartech:dead_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "createnucleartech:deepslate_beryllium_ore": {
-    "maxWaterDepth": 54,
-    "implosionChance": 0.5453333
-  },
-  "createnucleartech:deepslate_cinnabar_ore": {
-    "maxWaterDepth": 47,
-    "implosionChance": 0.604
-  },
-  "createnucleartech:deepslate_niter_ore": {
-    "maxWaterDepth": 42,
-    "implosionChance": 0.648
-  },
-  "createnucleartech:deepslate_thorium_ore": {
-    "maxWaterDepth": 58,
-    "implosionChance": 0.51600003
-  },
-  "createnucleartech:early_neutron_reflector": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:elite_neutron_reflector": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:fuel_holder": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:high_speed_mixer": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:lead_copycat": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:lead_irradiation_box": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:niter_ore": {
-    "maxWaterDepth": 29,
-    "implosionChance": 0.758
-  },
-  "createnucleartech:nuclear_bomb": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createnucleartech:thorium_ore": {
-    "maxWaterDepth": 44,
-    "implosionChance": 0.626
-  },
-  "createnucleartech:waste_earth": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
   "createoreexcavation:drilling_machine": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
@@ -54183,250 +52719,6 @@
   "createtransmission:transmission_chain": {
     "maxWaterDepth": 9,
     "implosionChance": 0.85
-  },
-  "creatingspace:air_liquefier": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "creatingspace:aluminum_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "creatingspace:big_engine_structure": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "creatingspace:big_rocket_engine": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "creatingspace:budding_nickel_sulfate": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "creatingspace:catalyst_carrier": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:clamps": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "creatingspace:cobalt_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "creatingspace:copper_oxygen_backtank": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "creatingspace:copronickel_block": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.82
-  },
-  "creatingspace:cryogenic_tank": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "creatingspace:deepslate_nickel_ore": {
-    "maxWaterDepth": 52,
-    "implosionChance": 0.56
-  },
-  "creatingspace:engine_structure": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "creatingspace:flight_recorder": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "creatingspace:flow_meter": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "creatingspace:hastelloy_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "creatingspace:inconel_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "creatingspace:large_nickel_sulfate_bud": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "creatingspace:mars_regolith": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "creatingspace:mars_stone": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:mars_surface_regolith": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "creatingspace:mechanical_electrolyzer": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "creatingspace:medium_nickel_sulfate_bud": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "creatingspace:monel_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "creatingspace:moon_aluminum_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:moon_cobalt_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:moon_nickel_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:moon_regolith": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "creatingspace:moon_stone": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:moon_stone_brick": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:moon_surface_regolith": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "creatingspace:netherite_oxygen_backtank": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "creatingspace:nickel_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "creatingspace:nickel_ore": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:nickel_sulfate_block": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "creatingspace:nickel_sulfate_cluster": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "creatingspace:oxygen_sealer": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "creatingspace:polished_moon_stone": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "creatingspace:raw_aluminum_block": {
-    "maxWaterDepth": 70,
-    "implosionChance": 0.41333333
-  },
-  "creatingspace:raw_cobalt_block": {
-    "maxWaterDepth": 70,
-    "implosionChance": 0.41333333
-  },
-  "creatingspace:raw_nickel_block": {
-    "maxWaterDepth": 70,
-    "implosionChance": 0.41333333
-  },
-  "creatingspace:reinforced_copper_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "creatingspace:rocket_casing": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.82
-  },
-  "creatingspace:rocket_controls": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "creatingspace:rocket_engine": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "creatingspace:rocket_engineer_table": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "creatingspace:small_engine_structure": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "creatingspace:small_nickel_sulfate_bud": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "creatingspace:small_rocket_engine": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "crowns:compressor": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "crowns:corium": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "crowns:deepslate_uranium_ore": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "crowns:fuel_assembly": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "crowns:heat_exchanger": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "crowns:solid_corium": {
-    "maxWaterDepth": 52,
-    "implosionChance": 0.56
-  },
-  "crowns:steam_collector": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "crowns:steam_input": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "crowns:turbine_stage": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "crowns:turbine_stage_structure": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "crowns:uranium_hexafluoride": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "crowns:uranium_ore": {
-    "maxWaterDepth": 52,
-    "implosionChance": 0.56
   },
   "culturaldelights:avocado_crate": {
     "maxWaterDepth": 16,
@@ -59126,6 +57418,430 @@
   },
   "handcrafted:yellow_plate": {
     "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:balefire": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:barrel_lox": {
+    "maxWaterDepth": 19,
+    "implosionChance": 0.838
+  },
+  "hbmsntm:barrel_pink": {
+    "maxWaterDepth": 19,
+    "implosionChance": 0.838
+  },
+  "hbmsntm:barrel_red": {
+    "maxWaterDepth": 19,
+    "implosionChance": 0.838
+  },
+  "hbmsntm:barrel_taint": {
+    "maxWaterDepth": 19,
+    "implosionChance": 0.838
+  },
+  "hbmsntm:block_scrap": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.6666667
+  },
+  "hbmsntm:brick_concrete": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_broken": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_broken_slab": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_broken_stairs": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_cracked": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_cracked_slab": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_cracked_stairs": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_marked": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_mossy": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_mossy_slab": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_mossy_stairs": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_slab": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_concrete_stairs": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_light": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:brick_obsidian": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:c4": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:crashed_bomb_balefire": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:crashed_bomb_conventional": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:crashed_bomb_nuke": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:crashed_bomb_salted": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:decontaminator": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:det_charge": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:det_cord": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:det_miner": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:det_nuke": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:dynamite": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:fallout": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:fire_digamma": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:fissure_bomb": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:fluid_duct_neo": {
+    "maxWaterDepth": 80,
+    "implosionChance": 0.33333334
+  },
+  "hbmsntm:frozen_dirt": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:frozen_grass": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:frozen_log": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:frozen_planks": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_asbestos": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_coal": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_explosive": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_flammable": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_meltdown": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_monoxide": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_radon": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_radon_dense": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:gas_radon_tomb": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:geiger": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:gravel_obsidian": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:launch_pad": {
+    "maxWaterDepth": 88,
+    "implosionChance": 0.26666668
+  },
+  "hbmsntm:leaves_layer": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:machine_battery_redd": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:machine_battery_socket": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:machine_fluid_tank": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:machine_press": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:machine_satlinker": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:mine_ap": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:mine_fat": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:mine_he": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:mine_naval": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:mine_shrap": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:nuke_fat_man": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:nuke_fleija": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:nuke_fstbmb": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:nuke_gadget": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:nuke_ivy_mike": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:nuke_little_boy": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:nuke_n2": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:nuke_prototype": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:nuke_tsar_bomba": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:ore_gneiss_schrabidium": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.5233333
+  },
+  "hbmsntm:ore_gneiss_uranium": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.5233333
+  },
+  "hbmsntm:ore_gneiss_uranium_scorched": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.5233333
+  },
+  "hbmsntm:ore_nether_plutonium": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.64
+  },
+  "hbmsntm:ore_nether_schrabidium": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:ore_nether_uranium": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.64
+  },
+  "hbmsntm:ore_nether_uranium_scorched": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.64
+  },
+  "hbmsntm:ore_oil": {
+    "maxWaterDepth": 88,
+    "implosionChance": 0.26666668
+  },
+  "hbmsntm:ore_schrabidium": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:ore_sellafield_diamond": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.41333333
+  },
+  "hbmsntm:ore_sellafield_emerald": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.41333333
+  },
+  "hbmsntm:ore_tikite": {
+    "maxWaterDepth": 88,
+    "implosionChance": 0.26666668
+  },
+  "hbmsntm:ore_uranium": {
+    "maxWaterDepth": 88,
+    "implosionChance": 0.26666668
+  },
+  "hbmsntm:ore_uranium_scorched": {
+    "maxWaterDepth": 88,
+    "implosionChance": 0.26666668
+  },
+  "hbmsntm:plushie_derg": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:plushie_hundun": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:plushie_numbernine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:plushie_yomi": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:pwr_controller": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:rad_lava_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:red_cable": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:sellafield_bedrock": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:sellafield_slaked": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.41333333
+  },
+  "hbmsntm:semtex": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:taint": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "hbmsntm:tnt": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:volcanic_lava_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:waste_earth": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:waste_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:waste_log": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.75
+  },
+  "hbmsntm:waste_mycelium": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:waste_planks": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:waste_trinitite": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "hbmsntm:waste_trinitite_red": {
+    "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
   "interiors:black_chair": {

@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "name": "ass.boytarget",
+      "inputItem": [
+        ["item","hbmsntm:ingot_uranium",18]
+      ],
+      "outputItem": [
+        ["single",["hbmsntm:little_boy_target"]]
+      ],
+      "duration": 200,
+      "power": 100
+    }
+  ]
+}

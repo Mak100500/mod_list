@@ -1,0 +1,18 @@
+filename = 'hbmsntm-128A.jar'
+name = "Hbm's Nuclear Tech: Neo Edition"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '128A'
+
+[download]
+hash = '752f418d3c5ec17bece73ea812403c08f872a2c889a727f00e31c760c86bf7e913538a826e4fde836ce0256975f8a2c4538c7e7574d91bb66d32ed1dcd283697'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G5P2Y6la/versions/ikzrPWRv/hbmsntm-128A.jar'
+
+[update.modrinth]
+mod-id = 'G5P2Y6la'
+version = 'ikzrPWRv'

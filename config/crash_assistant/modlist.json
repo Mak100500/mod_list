@@ -924,14 +924,6 @@
     "curseForgeHash": 3517236924,
     "modrinthHash": "451b43fb3a019b44b7423e56a987e4e5be52c201"
   },
-  "createnucleartech-1.4.jar": {
-    "jarName": "createnucleartech-1.4.jar",
-    "modId": "createnucleartech",
-    "name": "CreateNuclearTech",
-    "version": "1.4",
-    "curseForgeHash": 2944522701,
-    "modrinthHash": "dd93acde718de4a735e4d60a15dcc71dfcf5b5b8"
-  },
   "createoreexcavation-1.21-1.6.8.jar": {
     "jarName": "createoreexcavation-1.21-1.6.8.jar",
     "modId": "createoreexcavation",
@@ -1003,14 +995,6 @@
     "version": "0.7.1",
     "curseForgeHash": 3410895465,
     "modrinthHash": "0bb3c96b6930f1ab547096e402f6494dc1ba5874"
-  },
-  "crowns-1.21.1-2.1.6.jar": {
-    "jarName": "crowns-1.21.1-2.1.6.jar",
-    "modId": "crowns",
-    "name": "Creating Rotation Operated With Nuclear Science",
-    "version": "2.1.5",
-    "curseForgeHash": 1077665817,
-    "modrinthHash": "98659cd366c027b4142f2f765badb935c9db9464"
   },
   "culturaldelights-0.17.8.jar": {
     "jarName": "culturaldelights-0.17.8.jar",
@@ -1243,6 +1227,14 @@
     "version": "21.1.14",
     "curseForgeHash": 2957752065,
     "modrinthHash": "c3c63c8423a8cbf4a53d1fe099d4a48ed32c1e38"
+  },
+  "hbmsntm-128A.jar": {
+    "jarName": "hbmsntm-128A.jar",
+    "modId": "hbmsntm",
+    "name": "Hbm\u0027s Nuclear Tech: Neo Edition",
+    "version": "128A",
+    "curseForgeHash": 1716525943,
+    "modrinthHash": "c1d8416bb1cc052bc85f0cc1fe94c3a94ab5f207"
   },
   "insanelib-2.4.16.0.jar": {
     "jarName": "insanelib-2.4.16.0.jar",

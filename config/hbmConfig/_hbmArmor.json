@@ -1,0 +1,27 @@
+{
+  "comment": "Template file, remove the underscore ('_') from the name to enable the config.",
+  "itemStats": [],
+  "setStats": [
+    ["minecraft:diamond_helmet","minecraft:diamond_chestplate","minecraft:diamond_leggings","minecraft:diamond_boots",
+      {
+        "exact": [
+          ["minecraft:fall",4.0,0.5]
+        ],
+        "category": [
+          ["FIRE",0.0,0.25],
+          ["PHYS",2.0,0.15],
+          ["EXPL",0.0,0.25]
+        ],
+        "other": [2.0,0.1]}],
+    ["minecraft:netherite_helmet","minecraft:netherite_chestplate","minecraft:netherite_leggings","minecraft:netherite_boots",
+      {
+        "other": [99999.0,99999.0]}]
+  ],
+  "entityStats": [
+    ["net.minecraft.world.entity.monster.Creeper",
+      {
+        "category": [
+          ["EXPL",2.0,0.25]
+        ]}]
+  ]
+}
