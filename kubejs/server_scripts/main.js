@@ -54,6 +54,86 @@ ServerEvents.recipes(event => {
     .loops(1) 
     .id('kubejs:sequenced_assembly/electrite_ingot')
 
+    // 1. МЕЧ
+    event.recipes.create.sequenced_assembly(
+        ['kubejs:electrite_sword'], 
+        'minecraft:stick', 
+        [
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:redstone']),
+            event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
+        ]
+    )
+    .transitionalItem('kubejs:incomplete_electrite')
+    .loops(1)
+    .id('kubejs:sequenced_assembly/electrite_sword')
+
+    // 2. КИРКА
+    event.recipes.create.sequenced_assembly(
+        ['kubejs:electrite_pickaxe'], 
+        'minecraft:stick', 
+        [
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:stick']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:redstone']),
+            event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
+        ]
+    )
+    .transitionalItem('kubejs:incomplete_electrite')
+    .loops(1)
+    .id('kubejs:sequenced_assembly/electrite_pickaxe')
+
+    // 3. ТОПОР
+    event.recipes.create.sequenced_assembly(
+        ['kubejs:electrite_axe'], 
+        'minecraft:stick', 
+        [
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:stick']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:redstone']),
+            event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
+        ]
+    )
+    .transitionalItem('kubejs:incomplete_electrite')
+    .loops(1)
+    .id('kubejs:sequenced_assembly/electrite_axe')
+
+    // 4. ЛОПАТА
+    event.recipes.create.sequenced_assembly(
+        ['kubejs:electrite_shovel'], 
+        'minecraft:stick', 
+        [
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:stick']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:redstone']),
+            event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
+        ]
+    )
+    .transitionalItem('kubejs:incomplete_electrite')
+    .loops(1)
+    .id('kubejs:sequenced_assembly/electrite_shovel')
+
+    // 5. МОТЫГА
+    event.recipes.create.sequenced_assembly(
+        ['kubejs:electrite_hoe'], 
+        'minecraft:stick', 
+        [
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:stick']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'kubejs:electrite_ingot']),
+            event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:redstone']),
+            event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
+        ]
+    )
+    .transitionalItem('kubejs:incomplete_electrite')
+    .loops(1)
+    .id('kubejs:sequenced_assembly/electrite_hoe')
+
 })
 
 ServerEvents.tags('item', event => {
