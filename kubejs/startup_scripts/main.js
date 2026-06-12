@@ -2,14 +2,31 @@
 
 Platform.getInfo('kubejs').name = 'Create: Electric Steel'
 
+
+StartupEvents.registry('armor_material', event => {
+    event.create('electrite')
+        .defense({
+            helmet: 4,
+            chestplate: 9,
+            leggings: 7,
+            boots: 4
+        })
+        .toughness(3.0)
+        .knockbackResistance(0.15)
+        .enchantmentValue(24)
+        .equipSound('minecraft:item.armor.equip_netherite')
+       
+})
+
+// 2. РЕГИСТРАЦИЯ ВСЕХ ПРЕДМЕТОВ
 StartupEvents.registry('item', event => {
-  
-    // 1. МАТЕРИАЛЫ
+
+    // МАТЕРИАЛЫ
     event.create('electrite_ingot').texture('kubejs:item/electrite_ingot')
     event.create('incomplete_electrite').texture('kubejs:item/incomplete_electrite')
 
 
-    // 2. ИНСТРУМЕНТЫ
+    // ИНСТРУМЕНТЫ
 
     // МЕЧ
     event.create('electrite_sword', 'sword')
@@ -75,4 +92,30 @@ StartupEvents.registry('item', event => {
             tier.enchantmentValue = 25
             tier.repairIngredient = '#kubejs:electrite_ingot'
         })
+
+
+   // БРОНЯ
+event.create('electrite_helmet', 'helmet')
+    .material('kubejs:electrite')
+    .texture('kubejs:item/electrite_helmet')
+    .fireResistant()
+    .maxDamage(420)
+
+event.create('electrite_chestplate', 'chestplate')
+    .material('kubejs:electrite')
+    .texture('kubejs:item/electrite_chestplate')
+    .fireResistant()
+    .maxDamage(600)
+
+event.create('electrite_leggings', 'leggings')
+    .material('kubejs:electrite')
+    .texture('kubejs:item/electrite_leggings')
+    .fireResistant()
+    .maxDamage(560)
+
+event.create('electrite_boots', 'boots')
+    .material('kubejs:electrite')
+    .texture('kubejs:item/electrite_boots')
+    .fireResistant()
+    .maxDamage(490)
 })

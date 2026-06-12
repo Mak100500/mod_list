@@ -22,10 +22,10 @@
     "gaseous": {}
   },
   "AROMATICS": {
+    "liquid": {},
     "flammable": {
       "energy": 25000
     },
-    "liquid": {},
     "viscous": {}
   },
   "UNSATURATEDS": {
@@ -35,19 +35,19 @@
     "gaseous": {}
   },
   "KEROSENE": {
+    "liquid": {},
     "flammable": {
       "energy": 300000
-    },
-    "liquid": {}
+    }
   },
   "KEROSENE_REFORM": {
     "liquid": {}
   },
   "ETHANOL": {
+    "liquid": {},
     "flammable": {
       "energy": 75000
-    },
-    "liquid": {}
+    }
   },
   "PEROXIDE": {
     "liquid": {},
