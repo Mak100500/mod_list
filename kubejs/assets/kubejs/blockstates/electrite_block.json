@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "kubejs:textures/models/block/electrite_block" }
+    "": { "model": "kubejs:block/electrite_block" }
   }
 }

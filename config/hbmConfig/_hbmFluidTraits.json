@@ -4,50 +4,50 @@
     "gaseous": {}
   },
   "WATER": {
-    "liquid": {},
-    "unsiphonable": {}
+    "unsiphonable": {},
+    "liquid": {}
   },
   "LAVA": {
-    "liquid": {},
-    "viscous": {}
+    "viscous": {},
+    "liquid": {}
   },
   "OXYGEN": {
     "liquid": {},
     "gaseous_art": {}
   },
   "GAS": {
+    "gaseous": {},
     "flammable": {
       "energy": 10000
-    },
-    "gaseous": {}
+    }
   },
   "AROMATICS": {
-    "liquid": {},
+    "viscous": {},
     "flammable": {
       "energy": 25000
     },
-    "viscous": {}
+    "liquid": {}
   },
   "UNSATURATEDS": {
+    "gaseous": {},
     "flammable": {
       "energy": 1000000
-    },
-    "gaseous": {}
+    }
   },
   "KEROSENE": {
-    "liquid": {},
     "flammable": {
       "energy": 300000
-    }
+    },
+    "liquid": {}
   },
   "KEROSENE_REFORM": {
     "liquid": {}
   },
   "ETHANOL": {
-    "liquid": {},
     "flammable": {
       "energy": 75000
-    }
+    },
+    "liquid": {}
   },
   "PEROXIDE": {
     "liquid": {},
