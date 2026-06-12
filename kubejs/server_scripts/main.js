@@ -130,9 +130,9 @@ ServerEvents.recipes(event => {
 
     // БОТИНКИ
     event.recipes.create.mechanical_crafting('kubejs:electrite_boots', [
-        'E   E',
-        'R   R',
-        'G   G'
+        'E E',
+        'R R',
+        'G G'
     ], ARMOR_BASE_KEYS)
 })
 
