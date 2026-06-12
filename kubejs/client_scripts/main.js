@@ -37,4 +37,16 @@ ItemEvents.modifyTooltips(event => {
         Text.darkGray('Требует прессования и легирования для стабилизации структуры.')
     ])
 
+    event.add([
+        'kubejs:electrite_helmet', 
+        'kubejs:electrite_chestplate', 
+        'kubejs:electrite_leggings', 
+        'kubejs:electrite_boots'
+    ], [
+        Text.translate(''), 
+        Text.red('При полном комплекте:'),
+        Text.gray('В случае гибели электрит из-за повреждений'),
+        Text.gray('детонирует, вызывая взрыв в точке смерти.')
+    ])
+
 })

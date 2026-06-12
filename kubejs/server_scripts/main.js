@@ -154,8 +154,52 @@ ServerEvents.recipes(event => {
     event.recipes.create.crushing('9x kubejs:electrite_ingot', 'kubejs:electrite_block')
 })
 
+PlayerEvents.tick(event => {
+    const player = event.player
+    
+    
+    if (player.age % 20 === 0) {
+        let hasHelmet = player.getEquipment('head').id == 'kubejs:electrite_helmet'
+        let hasChest = player.getEquipment('chest').id == 'kubejs:electrite_chestplate'
+        let hasLegs  = player.getEquipment('legs').id == 'kubejs:electrite_leggings'
+        let hasBoots = player.getEquipment('feet').id == 'kubejs:electrite_boots'
+        if (hasHelmet && hasChest && hasLegs && hasBoots) {
+            player.potionEffects.add('minecraft:speed', 30, 0, false, false)
+            player.potionEffects.add('minecraft:resistance', 30, 0, false, false)
+        }
+    }
+})
+
+// =====================================================
+//  ЭФФЕКТ ДЕТОНАЦИИ ПРИ СМЕРТИ ПРИ ПОЛНОМ СЕТЕ БРОНИ
+// =====================================================
+EntityEvents.death(event => {
+    const entity = event.entity
+    
+    if (!entity.isPlayer()) return
+
+    const player = entity
+    
+    let hasHelmet = player.getEquipment('head').id == 'kubejs:electrite_helmet'
+    let hasChest = player.getEquipment('chest').id == 'kubejs:electrite_chestplate'
+    let hasLegs  = player.getEquipment('legs').id == 'kubejs:electrite_leggings'
+    let hasBoots = player.getEquipment('feet').id == 'kubejs:electrite_boots'
+
+    if (hasHelmet && hasChest && hasLegs && hasBoots) {
+        let x = player.x
+        let y = player.y
+        let z = player.z
+        let dim = player.level.dimension
+        
+        
+        player.server.scheduleInTicks(5, callback => {
+          
+            player.server.runCommandSilent(`execute in ${dim} run summon tnt ${x} ${y + 2.0} ${z} {Fuse:1}`)
+        })
+    }
+})
 // ===========
-// 4. ТЕГИ
+//  ТЕГИ
 // ===========
 ServerEvents.tags('item', event => {
     event.add('minecraft:cluster_max_harvestables', 'kubejs:electrite_pickaxe')

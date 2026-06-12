@@ -8,13 +8,13 @@ Platform.getInfo('kubejs').name = 'Create: Electric Steel'
 StartupEvents.registry('armor_material', event => {
     event.create('electrite')
         .defense({
-            helmet: 6,       
-            chestplate: 12, 
-            leggings: 9,     
-            boots: 5         
+            helmet: 7,      
+            chestplate: 14,  
+            leggings: 10,    
+            boots: 6         
         })
-        .toughness(5.0)               
-        .knockbackResistance(0.40)    
+        .toughness(7.0)                
+        .knockbackResistance(0.50)     
         .enchantmentValue(30)         
         .equipSound('minecraft:item.armor.equip_netherite')
         .repairIngredient(() => Ingredient.of('#kubejs:electrite_ingot'))
@@ -77,11 +77,11 @@ StartupEvents.registry('item', event => {
         .speedBaseline(1.0)
         .modifyTier(tech)
 
-    // БРОНЯ
-    event.create('electrite_helmet', 'helmet').material('kubejs:electrite').texture('kubejs:item/electrite_helmet').fireResistant().maxDamage(650)
-    event.create('electrite_chestplate', 'chestplate').material('kubejs:electrite').texture('kubejs:item/electrite_chestplate').fireResistant().maxDamage(950)
-    event.create('electrite_leggings', 'leggings').material('kubejs:electrite').texture('kubejs:item/electrite_leggings').fireResistant().maxDamage(850)
-    event.create('electrite_boots', 'boots').material('kubejs:electrite').texture('kubejs:item/electrite_boots').fireResistant().maxDamage(750)
+    // БРОНЯ 
+    event.create('electrite_helmet', 'helmet').material('kubejs:electrite').texture('kubejs:item/electrite_helmet').fireResistant().maxDamage(800)
+    event.create('electrite_chestplate', 'chestplate').material('kubejs:electrite').texture('kubejs:item/electrite_chestplate').fireResistant().maxDamage(1200)
+    event.create('electrite_leggings', 'leggings').material('kubejs:electrite').texture('kubejs:item/electrite_leggings').fireResistant().maxDamage(1100)
+    event.create('electrite_boots', 'boots').material('kubejs:electrite').texture('kubejs:item/electrite_boots').fireResistant().maxDamage(900)
 })
 
 // Регистрация кастомных блоков
