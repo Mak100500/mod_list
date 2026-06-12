@@ -13,6 +13,12 @@ ClientEvents.lang('ru_ru', event => {
     event.add('item.kubejs.electrite_shovel', 'Электритовая лопата')
     event.add('item.kubejs.electrite_hoe', 'Электритовая мотыга')
 
+   
+    event.add('item.kubejs.electrite_helmet', 'Электритовый шлем')
+    event.add('item.kubejs.electrite_chestplate', 'Электритовый нагрудник')
+    event.add('item.kubejs.electrite_leggings', 'Электритовые поножи')
+    event.add('item.kubejs.electrite_boots', 'Электритовые ботинки')
+
 })
 
 

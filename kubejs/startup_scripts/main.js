@@ -15,10 +15,10 @@ StartupEvents.registry('armor_material', event => {
         .knockbackResistance(0.15)
         .enchantmentValue(24)
         .equipSound('minecraft:item.armor.equip_netherite')
-       
+        .repairIngredient(() => Ingredient.of('#c:ingots/electrite'))
 })
 
-// 2. РЕГИСТРАЦИЯ ВСЕХ ПРЕДМЕТОВ
+// РЕГИСТРАЦИЯ ВСЕХ ПРЕДМЕТОВ
 StartupEvents.registry('item', event => {
 
     // МАТЕРИАЛЫ

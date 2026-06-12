@@ -139,8 +139,5 @@ ServerEvents.recipes(event => {
 ServerEvents.tags('item', event => {
     event.add('minecraft:cluster_max_harvestables', 'kubejs:electrite_pickaxe')
     event.add('minecraft:picks', 'kubejs:electrite_pickaxe')
-})
-
-ServerEvents.tags('item', event => {
     event.add('kubejs:electrite_ingot', 'kubejs:electrite_ingot')
 })
