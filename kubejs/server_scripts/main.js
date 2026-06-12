@@ -134,23 +134,23 @@ ServerEvents.recipes(event => {
     ], ARMOR_BASE_KEYS)
 
 
-    // ==================================
-    // КРАФТ И ОБРАТНЫЙ РАЗБОР БЛОКА
-    // ==================================
+    // =======================================
+    // КРАФТЫ БЛОКА И РАЗБОРКА НА ИНГРЕДИЕНТЫ
+    // =======================================
 
-    // 1. Механический крафт блока из Create (3х3 на конвейерных крафтерах)
+    // 1. Механический крафт блока
     event.recipes.create.mechanical_crafting('kubejs:electrite_block', [
         'EEE',
         'EEE',
         'EEE'
     ], { E: 'kubejs:electrite_ingot' })
 
-    // 2. Сжатие предметов механическим прессом Create (9 слитков в бассейн/чашу -> 1 блок)
+    // 2. Сжатие предметов механическим прессом
     event.recipes.create.compacting('kubejs:electrite_block', [
         '9x kubejs:electrite_ingot'
     ])
 
-    // 3. Разбор блока только на больших Дробильных колесах
+    // 3. Разбор блока на больших Дробильных колесах
     event.recipes.create.crushing('9x kubejs:electrite_ingot', 'kubejs:electrite_block')
 })
 
