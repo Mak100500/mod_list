@@ -8,31 +8,31 @@
     "liquid": {}
   },
   "LAVA": {
-    "viscous": {},
-    "liquid": {}
+    "liquid": {},
+    "viscous": {}
   },
   "OXYGEN": {
     "gaseous_art": {},
     "liquid": {}
   },
   "GAS": {
+    "gaseous": {},
     "flammable": {
       "energy": 10000
-    },
-    "gaseous": {}
+    }
   },
   "AROMATICS": {
     "flammable": {
       "energy": 25000
     },
-    "viscous": {},
-    "liquid": {}
+    "liquid": {},
+    "viscous": {}
   },
   "UNSATURATEDS": {
+    "gaseous": {},
     "flammable": {
       "energy": 1000000
-    },
-    "gaseous": {}
+    }
   },
   "KEROSENE": {
     "flammable": {
@@ -50,10 +50,10 @@
     "liquid": {}
   },
   "PEROXIDE": {
+    "liquid": {},
     "corrosive": {
       "rating": 40
-    },
-    "liquid": {}
+    }
   },
   "CUSTOM_DEMO": {}
 }
