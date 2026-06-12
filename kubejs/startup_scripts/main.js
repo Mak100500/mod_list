@@ -83,3 +83,14 @@ StartupEvents.registry('item', event => {
     event.create('electrite_leggings', 'leggings').material('kubejs:electrite').texture('kubejs:item/electrite_leggings').fireResistant().maxDamage(850)
     event.create('electrite_boots', 'boots').material('kubejs:electrite').texture('kubejs:item/electrite_boots').fireResistant().maxDamage(750)
 })
+
+// Регистрация кастомных блоков
+StartupEvents.registry('block', event => {
+    event.create('electrite_block') 
+        .soundType('metal')         
+        .hardness(25.0)              
+        .resistance(1200.0)            
+        .requiresTool(true)         
+        .tagBlock('minecraft:mineable/pickaxe')   
+        .tagBlock('minecraft:needs_diamond_tool')  
+})

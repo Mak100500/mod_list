@@ -5,7 +5,6 @@
 // ====================
 ServerEvents.recipes(event => {
 
-   
     const TOOL_KEYS = {
         E: 'kubejs:electrite_ingot',
         R: 'minecraft:redstone',
@@ -27,7 +26,6 @@ ServerEvents.recipes(event => {
         G: 'create_new_age:overcharged_gold'
     }
 
-   
     const steelIngots = [
         'createmetallurgy:steel_ingot', 
         'tfmg:steel_ingot',           
@@ -54,7 +52,7 @@ ServerEvents.recipes(event => {
     // МЕХАНИЧЕСКИЙ КРАФТ ИНСТРУМЕНТОВ 
     // ==================================
 
-  // 1. МЕЧ 
+    // 1. МЕЧ 
     event.recipes.create.mechanical_crafting('kubejs:electrite_sword', [
         ' E ',
         ' E ',
@@ -134,6 +132,26 @@ ServerEvents.recipes(event => {
         'R R',
         'G G'
     ], ARMOR_BASE_KEYS)
+
+
+    // ==================================
+    // КРАФТ И ОБРАТНЫЙ РАЗБОР БЛОКА
+    // ==================================
+
+    // 1. Механический крафт блока из Create (3х3 на конвейерных крафтерах)
+    event.recipes.create.mechanical_crafting('kubejs:electrite_block', [
+        'EEE',
+        'EEE',
+        'EEE'
+    ], { E: 'kubejs:electrite_ingot' })
+
+    // 2. Сжатие предметов механическим прессом Create (9 слитков в бассейн/чашу -> 1 блок)
+    event.recipes.create.compacting('kubejs:electrite_block', [
+        '9x kubejs:electrite_ingot'
+    ])
+
+    // 3. Разбор блока только на больших Дробильных колесах
+    event.recipes.create.crushing('9x kubejs:electrite_ingot', 'kubejs:electrite_block')
 })
 
 // ===========

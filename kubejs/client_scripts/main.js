@@ -7,6 +7,8 @@ ClientEvents.lang('ru_ru', event => {
     event.add('item.kubejs.electrite_ingot', 'Электритовый слиток')
     event.add('item.kubejs.incomplete_electrite', 'Необработанный электрит')
 
+    event.add('block.kubejs.electrite_block', 'Электритовый блок')
+    
     event.add('item.kubejs.electrite_sword', 'Электритовый меч')
     event.add('item.kubejs.electrite_pickaxe', 'Электритовая кирка')
     event.add('item.kubejs.electrite_axe', 'Электритовый топор')

@@ -58056,6 +58056,10 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
+  "kubejs:electrite_block": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
   "minecraft:acacia_button": {
     "maxWaterDepth": 3,
     "implosionChance": 0.85
