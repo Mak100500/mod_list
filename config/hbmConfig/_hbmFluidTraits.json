@@ -4,16 +4,16 @@
     "gaseous": {}
   },
   "WATER": {
-    "liquid": {},
-    "unsiphonable": {}
+    "unsiphonable": {},
+    "liquid": {}
   },
   "LAVA": {
-    "liquid": {},
-    "viscous": {}
+    "viscous": {},
+    "liquid": {}
   },
   "OXYGEN": {
-    "liquid": {},
-    "gaseous_art": {}
+    "gaseous_art": {},
+    "liquid": {}
   },
   "GAS": {
     "flammable": {
@@ -25,8 +25,8 @@
     "flammable": {
       "energy": 25000
     },
-    "liquid": {},
-    "viscous": {}
+    "viscous": {},
+    "liquid": {}
   },
   "UNSATURATEDS": {
     "flammable": {
@@ -50,10 +50,10 @@
     "liquid": {}
   },
   "PEROXIDE": {
-    "liquid": {},
     "corrosive": {
       "rating": 40
-    }
+    },
+    "liquid": {}
   },
   "CUSTOM_DEMO": {}
 }

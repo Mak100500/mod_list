@@ -21,14 +21,6 @@
     "curseForgeHash": 3968983307,
     "modrinthHash": "381801fc33f41a1a304472b5353d5e5437055668"
   },
-  "aeroclaims-0.9.0.jar": {
-    "jarName": "aeroclaims-0.9.0.jar",
-    "modId": "aeroclaims",
-    "name": "Aeronautics Claims",
-    "version": "0.9.0",
-    "curseForgeHash": 3207126439,
-    "modrinthHash": "0d886fe88829f58443b4943e90fb64b881a8d3ad"
-  },
   "aeronautics_translation-1.1.jar": {
     "jarName": "aeronautics_translation-1.1.jar",
     "modId": "aeronautics_translation",
@@ -501,14 +493,6 @@
     "curseForgeHash": 3671104766,
     "modrinthHash": "b4dc2390c4678305aa96c6faedf9e4c54161ec04"
   },
-  "create-zinc-recipe-1.1.jar": {
-    "jarName": "create-zinc-recipe-1.1.jar",
-    "modId": "mr_create_zincrecipe",
-    "name": "Create: Zinc Recipe",
-    "version": "1.0",
-    "curseForgeHash": 3412309276,
-    "modrinthHash": "8b9e5bd075ae015267958d8d216b79c4b34aa7d2"
-  },
   "create_avionics-neoforge-1.21.1-0.4.0.jar": {
     "jarName": "create_avionics-neoforge-1.21.1-0.4.0.jar",
     "modId": "create_avionics",
@@ -804,14 +788,6 @@
     "version": "0.3.6",
     "curseForgeHash": 1312818210,
     "modrinthHash": "18e0cf6cd07d223062135675ad8a152418647cff"
-  },
-  "createclothes-1.0-1.21.1.jar": {
-    "jarName": "createclothes-1.0-1.21.1.jar",
-    "modId": "createclothes",
-    "name": "Create Clothes",
-    "version": "1.0-1.21.1",
-    "curseForgeHash": 3007007113,
-    "modrinthHash": "d1de181996f0a371f1845c52117f513957ecc751"
   },
   "createcobblestone-1.4.10%2Bneoforge-1.21.1-139.jar": {
     "jarName": "createcobblestone-1.4.10%2Bneoforge-1.21.1-139.jar",
@@ -1220,14 +1196,6 @@
     "curseForgeHash": 2517848455,
     "modrinthHash": "8ecd27f1d66f9b742cfae3c8ffa773765f574b52"
   },
-  "hardcorerevival-neoforge-1.21.1-21.1.14.jar": {
-    "jarName": "hardcorerevival-neoforge-1.21.1-21.1.14.jar",
-    "modId": "hardcorerevival",
-    "name": "Hardcore Revival",
-    "version": "21.1.14",
-    "curseForgeHash": 2957752065,
-    "modrinthHash": "c3c63c8423a8cbf4a53d1fe099d4a48ed32c1e38"
-  },
   "hbmsntm-128A.jar": {
     "jarName": "hbmsntm-128A.jar",
     "modId": "hbmsntm",
@@ -1392,14 +1360,6 @@
     "version": "0.26.3",
     "curseForgeHash": 3708342540,
     "modrinthHash": "f5ede8294af8741fa05eb9a02f18315f7f248d78"
-  },
-  "pantographsandwires-neoforge-1.21.1-beta-0.2.2-C6.jar": {
-    "jarName": "pantographsandwires-neoforge-1.21.1-beta-0.2.2-C6.jar",
-    "modId": "pantographsandwires",
-    "name": "Create: Pantographs \u0026 Wires",
-    "version": "1.21.1-beta-0.2.2-C6",
-    "curseForgeHash": 536084708,
-    "modrinthHash": "a52deb44d08f0131eb75dbc36c152110846f0843"
   },
   "powergrid-mc1.21.1-0.5.5.1.jar": {
     "jarName": "powergrid-mc1.21.1-0.5.5.1.jar",
@@ -1568,14 +1528,6 @@
     "version": "1.0.2+neoforge.1.21.1",
     "curseForgeHash": 2885617076,
     "modrinthHash": "3468c424e12c4357e1d9b46b2c1e7886fa10c08c"
-  },
-  "tarkovcraft_core-neoforge-2.5.1+1.21.1.jar": {
-    "jarName": "tarkovcraft_core-neoforge-2.5.1+1.21.1.jar",
-    "modId": "tarkovcraft_core",
-    "name": "TarkovCraft: Core",
-    "version": "2.5.1",
-    "curseForgeHash": 3586417213,
-    "modrinthHash": "8d2dd1bd6f27404f4f3b44b7f8340c32ba3a10e9"
   },
   "tectonic-3.0.22-neoforge-21.1.jar": {
     "jarName": "tectonic-3.0.22-neoforge-21.1.jar",

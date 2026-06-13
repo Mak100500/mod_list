@@ -2,8 +2,12 @@
   "comment": "Template file, remove the underscore ('_') from the name to enable the config.",
   "entries": [
     {
-      "item": "minecraft:golden_chestplate",
-      "resistance": 0.009
+      "item": "minecraft:iron_boots",
+      "resistance": 0.00225
+    },
+    {
+      "item": "minecraft:golden_helmet",
+      "resistance": 0.0045
     },
     {
       "item": "minecraft:iron_helmet",
@@ -14,7 +18,23 @@
       "resistance": 0.028000000000000004
     },
     {
+      "item": "minecraft:golden_leggings",
+      "resistance": 0.00675
+    },
+    {
+      "item": "hbmsntm:alloy_boots",
+      "resistance": 0.007000000000000001
+    },
+    {
       "item": "minecraft:iron_chestplate",
+      "resistance": 0.009
+    },
+    {
+      "item": "hbmsntm:alloy_helmet",
+      "resistance": 0.014000000000000002
+    },
+    {
+      "item": "minecraft:golden_chestplate",
       "resistance": 0.009
     },
     {
@@ -26,28 +46,8 @@
       "resistance": 0.021
     },
     {
-      "item": "hbmsntm:alloy_helmet",
-      "resistance": 0.014000000000000002
-    },
-    {
-      "item": "minecraft:iron_boots",
-      "resistance": 0.00225
-    },
-    {
-      "item": "hbmsntm:alloy_boots",
-      "resistance": 0.007000000000000001
-    },
-    {
       "item": "minecraft:golden_boots",
       "resistance": 0.00225
-    },
-    {
-      "item": "minecraft:golden_helmet",
-      "resistance": 0.0045
-    },
-    {
-      "item": "minecraft:golden_leggings",
-      "resistance": 0.00675
     }
   ]
 }
