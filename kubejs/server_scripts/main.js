@@ -7,23 +7,26 @@ ServerEvents.recipes(event => {
 
     const TOOL_KEYS = {
         E: 'kubejs:electrite_ingot',
-        R: 'minecraft:redstone',
+        R: 'minecraft:redstone_block',
         Q: 'create:polished_rose_quartz',
         G: 'create_new_age:overcharged_gold', 
-        S: 'minecraft:stick'
+        S: 'minecraft:stick',
+        P: 'create:precision_mechanism'
     }
 
     const ARMOR_QUARTZ_KEYS = {
         E: 'kubejs:electrite_ingot',
-        R: 'minecraft:redstone',
+        R: 'minecraft:redstone_block',
         Q: 'create:polished_rose_quartz',
-        G: 'create_new_age:overcharged_gold'
+        G: 'create_new_age:overcharged_gold',
+        P: 'create:precision_mechanism'
     }
 
     const ARMOR_BASE_KEYS = {
         E: 'kubejs:electrite_ingot',
-        R: 'minecraft:redstone',
-        G: 'create_new_age:overcharged_gold'
+        R: 'minecraft:redstone_block',
+        G: 'create_new_age:overcharged_gold',
+        P: 'create:precision_mechanism'
     }
 
     const steelIngots = [
@@ -43,7 +46,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.sequenced_assembly(['kubejs:electrite_ingot'], 'kubejs:incomplete_electrite', [
         event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite'),
         event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'create_new_age:overcharged_gold']),
-        event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:redstone']),
+        event.recipes.create.deploying('kubejs:incomplete_electrite', ['kubejs:incomplete_electrite', 'minecraft:redstone_block']),
         event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
     ]).transitionalItem('kubejs:incomplete_electrite').loops(1).id('kubejs:sequenced_assembly/electrite_ingot')
 
@@ -58,6 +61,7 @@ ServerEvents.recipes(event => {
         ' E ',
         'RQR',
         ' G ',
+        ' P ',
         ' S '
     ], TOOL_KEYS)
 
@@ -65,6 +69,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.mechanical_crafting('kubejs:electrite_pickaxe', [
         'EEEEE',
         'R G R',
+        '  P  ',
         '  Q  ',
         '  S  ',
         '  S  '
@@ -74,6 +79,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.mechanical_crafting('kubejs:electrite_axe', [
         'EEE ',
         'EEQ ',
+        'R P ',
         'R S ',
         'G S ',
         '  S '
@@ -84,6 +90,7 @@ ServerEvents.recipes(event => {
         ' E ',
         'RQR',
         ' G ',
+        ' P ',
         ' S ',
         ' S '
     ], TOOL_KEYS)
@@ -92,6 +99,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.mechanical_crafting('kubejs:electrite_hoe', [
         'EEEE',
         'R Q ',
+        'R G ',
         '  S ',
         '  G ',
         '  S '
@@ -105,6 +113,7 @@ ServerEvents.recipes(event => {
     event.recipes.create.mechanical_crafting('kubejs:electrite_helmet', [
         'EEEEE',
         'R Q R',
+        'P   P',
         'G   G'
     ], ARMOR_QUARTZ_KEYS)
 
@@ -113,7 +122,7 @@ ServerEvents.recipes(event => {
         'E   E',
         'ERERE',
         'EGQGE',
-        'EEEEE',
+        'EPPPE',
         ' EEE '
     ], ARMOR_QUARTZ_KEYS)
 
@@ -122,6 +131,7 @@ ServerEvents.recipes(event => {
         'EEEEE',
         'R   R',
         'G   G',
+        'P   P',
         'E   E',
         'E   E'
     ], ARMOR_BASE_KEYS)
@@ -130,7 +140,8 @@ ServerEvents.recipes(event => {
     event.recipes.create.mechanical_crafting('kubejs:electrite_boots', [
         'E E',
         'R R',
-        'G G'
+        'G G',
+        'P P'
     ], ARMOR_BASE_KEYS)
 
 
