@@ -4,8 +4,8 @@
     "gaseous": {}
   },
   "WATER": {
-    "unsiphonable": {},
-    "liquid": {}
+    "liquid": {},
+    "unsiphonable": {}
   },
   "LAVA": {
     "liquid": {},
@@ -50,10 +50,10 @@
     "liquid": {}
   },
   "PEROXIDE": {
+    "liquid": {},
     "corrosive": {
       "rating": 40
-    },
-    "liquid": {}
+    }
   },
   "CUSTOM_DEMO": {}
 }

@@ -203,3 +203,15 @@ ServerEvents.tags('item', event => {
     event.add('kubejs:electrite_ingot', 'kubejs:electrite_ingot')
     event.add('c:ingots/electrite', 'kubejs:electrite_ingot') 
 })
+
+// =====================================================
+//   УДАЛЕНИЕ КРАФТА НЕЗЕРИТОВОЙ БРОНИ
+// =====================================================
+ServerEvents.recipes(event => {
+    
+    event.remove({ output: 'minecraft:netherite_helmet' })
+    event.remove({ output: 'minecraft:netherite_chestplate' })
+    event.remove({ output: 'minecraft:netherite_leggings' })
+    event.remove({ output: 'minecraft:netherite_boots' })
+    
+})
