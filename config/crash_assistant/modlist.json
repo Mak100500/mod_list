@@ -1361,6 +1361,14 @@
     "curseForgeHash": 3708342540,
     "modrinthHash": "f5ede8294af8741fa05eb9a02f18315f7f248d78"
   },
+  "parry-1.0.1.jar": {
+    "jarName": "parry-1.0.1.jar",
+    "modId": "parry",
+    "name": "Parry it!",
+    "version": "1.0.0",
+    "curseForgeHash": 1036915504,
+    "modrinthHash": "c06d7c51ebf4f8ffb63a6a9203279065450b0bff"
+  },
   "powergrid-mc1.21.1-0.5.5.1.jar": {
     "jarName": "powergrid-mc1.21.1-0.5.5.1.jar",
     "modId": "powergrid",

@@ -1,0 +1,3 @@
+["Parry Client Settings"]
+	#If true, displays a white screen flash on successful parries. (Default: true)
+	enableParryFlash = true

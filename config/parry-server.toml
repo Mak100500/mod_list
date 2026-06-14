@@ -1,0 +1,23 @@
+["Parry Settings"]
+	#Duration of the parry window in ticks (1 second = 20 ticks).
+	# Default: 6
+	# Range: 1 ~ 100
+	parryWindowTicks = 6
+	#Cooldown after a parry attempt in ticks (1 second = 20 ticks).
+	# Default: 20
+	# Range: 0 ~ 1200
+	parryCooldownTicks = 20
+	#If true, landing a successful parry instantly resets the cooldown. (Default: true)
+	enableChainMode = true
+
+["Fall Damage Parry Settings"]
+	#Whether parrying fall damage is enabled.
+	enableFallDamageParry = true
+	#How much the fall damage explosion radius scales with damage amount.
+	# Default: 0.1
+	# Range: 0.0 ~ 5.0
+	fallDamageExplosionScaling = 0.1
+	#Minimum fall distance (in blocks) required to create an explosion. (Default: 10.0)
+	# Default: 10.0
+	# Range: 0.0 ~ 1000.0
+	fallDamageExplosionMinBlocks = 10.0

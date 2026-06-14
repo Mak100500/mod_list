@@ -100,7 +100,7 @@ ServerEvents.recipes(event => {
         'EEEE',
         'R Q ',
         'R G ',
-        '  S ',
+        '  P ',
         '  G ',
         '  S '
     ], TOOL_KEYS)
