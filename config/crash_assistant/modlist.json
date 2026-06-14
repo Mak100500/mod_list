@@ -693,14 +693,6 @@
     "curseForgeHash": 2468150996,
     "modrinthHash": "c31cc8f482711aaa2796bd6e45d53c8a5d4b75c7"
   },
-  "create_the_air_wars-4.01.jar": {
-    "jarName": "create_the_air_wars-4.01.jar",
-    "modId": "create_the_air_wars",
-    "name": "Create: The Air War",
-    "version": "4.01",
-    "curseForgeHash": 1769144063,
-    "modrinthHash": "80a4dccaf3368565ee88cd631b429be7ef13e1a3"
-  },
   "create_things_and_misc-4.1.0-neoforge-1.21.1.jar": {
     "jarName": "create_things_and_misc-4.1.0-neoforge-1.21.1.jar",
     "modId": "create_things_and_misc",
@@ -907,14 +899,6 @@
     "version": "1.6.8",
     "curseForgeHash": 2589885101,
     "modrinthHash": "9a76b86ec7470d4bd7332f22d6e50a3693098c10"
-  },
-  "createpropulsion-0.3.6.jar": {
-    "jarName": "createpropulsion-0.3.6.jar",
-    "modId": "createpropulsion",
-    "name": "Create: Propulsion",
-    "version": "0.3.6",
-    "curseForgeHash": 3812512122,
-    "modrinthHash": "7f669bed88386f9b74754536c62ab2d5d1b23fae"
   },
   "createpropulsion-1.1.4.jar": {
     "jarName": "createpropulsion-1.1.4.jar",
@@ -1195,14 +1179,6 @@
     "version": "4.0.3",
     "curseForgeHash": 2517848455,
     "modrinthHash": "8ecd27f1d66f9b742cfae3c8ffa773765f574b52"
-  },
-  "hbmsntm-128A.jar": {
-    "jarName": "hbmsntm-128A.jar",
-    "modId": "hbmsntm",
-    "name": "Hbm\u0027s Nuclear Tech: Neo Edition",
-    "version": "128A",
-    "curseForgeHash": 1716525943,
-    "modrinthHash": "c1d8416bb1cc052bc85f0cc1fe94c3a94ab5f207"
   },
   "insanelib-2.4.16.0.jar": {
     "jarName": "insanelib-2.4.16.0.jar",
