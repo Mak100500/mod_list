@@ -1345,6 +1345,14 @@
     "curseForgeHash": 1036915504,
     "modrinthHash": "c06d7c51ebf4f8ffb63a6a9203279065450b0bff"
   },
+  "physical-falling-trees-2.4.0-cropped.jar": {
+    "jarName": "physical-falling-trees-2.4.0-cropped.jar",
+    "modId": "mr_physical_fallingtrees",
+    "name": "Physical Falling Trees",
+    "version": "2.4.0-cropped",
+    "curseForgeHash": 1517052069,
+    "modrinthHash": "f7d16a42b16d2078598af8c3accdfbb058bfa693"
+  },
   "powergrid-mc1.21.1-0.5.5.1.jar": {
     "jarName": "powergrid-mc1.21.1-0.5.5.1.jar",
     "modId": "powergrid",
