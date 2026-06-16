@@ -50,12 +50,6 @@ ServerEvents.recipes(event => {
         event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
     ]).transitionalItem('kubejs:incomplete_electrite').loops(1).id('kubejs:sequenced_assembly/electrite_ingot')
 
-    event.recipes.create.sequenced_assembly(['kubejs:advanced_electron_tube'], 'kubejs:incomplete_electron_tube', [
-        event.recipes.create.deploying('kubejs:incomplete_electron_tube', ['kubejs:incomplete_electron_tube', 'minecraft:redstone_dust']),
-        event.recipes.create.deploying('kubejs:incomplete_electron_tube', ['kubejs:incomplete_electron_tube', 'create_new_age:overcharged_gold']),
-        event.recipes.create.filling('kubejs:incomplete_electron_tube', [Fluid.of('kubejs:molten_electrite', 50)])
-    ]).transitionalItem('kubejs:incomplete_electron_tube').loops(1).id('kubejs:sequenced_assembly/advanced_electron_tube')
-
 
     // ==================================
     // МЕХАНИЧЕСКИЙ КРАФТ ИНСТРУМЕНТОВ 

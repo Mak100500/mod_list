@@ -892,6 +892,14 @@
     "curseForgeHash": 3517236924,
     "modrinthHash": "451b43fb3a019b44b7423e56a987e4e5be52c201"
   },
+  "CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar": {
+    "jarName": "CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar",
+    "modId": "createoplenty",
+    "name": "Create O\u0027 Plenty",
+    "version": "3.0",
+    "curseForgeHash": 1876877970,
+    "modrinthHash": "9c636f52e9354fdccc0b53201c22dfb5887f0589"
+  },
   "createoreexcavation-1.21-1.6.8.jar": {
     "jarName": "createoreexcavation-1.21-1.6.8.jar",
     "modId": "createoreexcavation",
