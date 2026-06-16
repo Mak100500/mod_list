@@ -50,6 +50,12 @@ ServerEvents.recipes(event => {
         event.recipes.create.pressing('kubejs:incomplete_electrite', 'kubejs:incomplete_electrite')
     ]).transitionalItem('kubejs:incomplete_electrite').loops(1).id('kubejs:sequenced_assembly/electrite_ingot')
 
+    event.recipes.create.sequenced_assembly(['kubejs:advanced_electron_tube'], 'kubejs:incomplete_electron_tube', [
+        event.recipes.create.deploying('kubejs:incomplete_electron_tube', ['kubejs:incomplete_electron_tube', 'minecraft:redstone_dust']),
+        event.recipes.create.deploying('kubejs:incomplete_electron_tube', ['kubejs:incomplete_electron_tube', 'create_new_age:overcharged_gold']),
+        event.recipes.create.filling('kubejs:incomplete_electron_tube', [Fluid.of('kubejs:molten_electrite', 50)])
+    ]).transitionalItem('kubejs:incomplete_electron_tube').loops(1).id('kubejs:sequenced_assembly/advanced_electron_tube')
+
 
     // ==================================
     // МЕХАНИЧЕСКИЙ КРАФТ ИНСТРУМЕНТОВ 
@@ -163,6 +169,45 @@ ServerEvents.recipes(event => {
 
     // 3. Разбор блока на больших Дробильных колесах
     event.recipes.create.crushing('9x kubejs:electrite_ingot', 'kubejs:electrite_block')
+
+    // ===============================
+    // ЛИСТ И РАСПЛАВ ЭЛЕКТРИТА
+    // ===============================
+
+    event.recipes.create.pressing('kubejs:electrite_sheet', 'kubejs:electrite_ingot')
+        .id('kubejs:pressing/electrite_sheet')
+
+    const moltenElectrite = Fluid.of('kubejs:molten_electrite', 90)
+    const moltenElectriteBlock = Fluid.of('kubejs:molten_electrite', 810)
+
+    event.recipes.createmetallurgy.melting(moltenElectrite, 'kubejs:electrite_ingot', 100)
+        .id('kubejs:melting/electrite_ingot')
+
+    event.recipes.createmetallurgy.melting(moltenElectrite, 'kubejs:electrite_sheet', 80)
+        .id('kubejs:melting/electrite_sheet')
+
+    event.recipes.createmetallurgy.melting(moltenElectriteBlock, 'kubejs:electrite_block', 200)
+        .id('kubejs:melting/electrite_block')
+
+    event.recipes.createmetallurgy.casting_in_table(
+        'kubejs:electrite_ingot',
+        [moltenElectrite, 'createmetallurgy:graphite_ingot_mold'],
+        80,
+        false
+    ).id('kubejs:casting/electrite_ingot')
+
+    event.recipes.createmetallurgy.casting_in_table(
+        'kubejs:electrite_sheet',
+        [moltenElectrite, 'createmetallurgy:graphite_plate_mold'],
+        60,
+        false
+    ).id('kubejs:casting/electrite_sheet')
+
+    event.recipes.createmetallurgy.casting_in_basin(
+        'kubejs:electrite_block',
+        moltenElectriteBlock,
+        160
+    ).id('kubejs:casting/electrite_block')
 })
 
 
@@ -201,7 +246,14 @@ ServerEvents.tags('item', event => {
     event.add('minecraft:cluster_max_harvestables', 'kubejs:electrite_pickaxe')
     event.add('minecraft:picks', 'kubejs:electrite_pickaxe')
     event.add('kubejs:electrite_ingot', 'kubejs:electrite_ingot')
-    event.add('c:ingots/electrite', 'kubejs:electrite_ingot') 
+    event.add('c:ingots/electrite', 'kubejs:electrite_ingot')
+    event.add('c:plates/electrite', 'kubejs:electrite_sheet')
+    event.add('c:sheets/electrite', 'kubejs:electrite_sheet')
+    event.add('c:storage_blocks/electrite', 'kubejs:electrite_block')
+})
+
+ServerEvents.tags('fluid', event => {
+    event.add('c:molten_electrite', 'kubejs:molten_electrite')
 })
 
 // =====================================================

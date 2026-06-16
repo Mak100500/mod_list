@@ -27,7 +27,10 @@ StartupEvents.registry('item', event => {
 
     // МАТЕРИАЛЫ
     event.create('electrite_ingot').texture('kubejs:item/electrite_ingot')
+    event.create('electrite_sheet').texture('kubejs:item/electrite_sheet')
     event.create('incomplete_electrite').texture('kubejs:item/incomplete_electrite')
+    event.create('advanced_electron_tube').texture('kubejs:item/advanced_electron_tube')
+    event.create('incomplete_electron_tube').texture('kubejs:item/incomplete_electron_tube')
 
     // ХАРАКТЕРИСТИКИ ИНСТРУМЕНТОВ 
     const tech = tier => {
@@ -82,6 +85,13 @@ StartupEvents.registry('item', event => {
     event.create('electrite_chestplate', 'chestplate').material('kubejs:electrite').texture('kubejs:item/electrite_chestplate').fireResistant().maxDamage(1200)
     event.create('electrite_leggings', 'leggings').material('kubejs:electrite').texture('kubejs:item/electrite_leggings').fireResistant().maxDamage(1100)
     event.create('electrite_boots', 'boots').material('kubejs:electrite').texture('kubejs:item/electrite_boots').fireResistant().maxDamage(900)
+})
+
+// Регистрация кастомной жидкости
+StartupEvents.registry('fluid', event => {
+    event.create('molten_electrite', 'thick')
+        .displayName('Molten Electrite')
+        .tint(0x4FC3F7)
 })
 
 // Регистрация кастомных блоков
