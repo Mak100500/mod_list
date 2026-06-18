@@ -1036,6 +1036,22 @@
     "curseForgeHash": 3116931576,
     "modrinthHash": "32ad20ba9a28629ecf47e0bfeb911f6c53bd1b7c"
   },
+  "effortless-1.21.1-3.4.0.jar": {
+    "jarName": "effortless-1.21.1-3.4.0.jar",
+    "modId": "effortless",
+    "name": "Effortless Structure",
+    "version": "3.4.0",
+    "curseForgeHash": 3441702022,
+    "modrinthHash": "fd60c4a0b8c0d2da7e0897644dbc157db19bb54f"
+  },
+  "effortlessbuilding-4.1+1.21.1.jar": {
+    "jarName": "effortlessbuilding-4.1+1.21.1.jar",
+    "modId": "effortlessbuilding",
+    "name": "Effortless Building",
+    "version": "4.1",
+    "curseForgeHash": 2809650980,
+    "modrinthHash": "10188c088c3e32d21275fd02d1aa31ffb6dd9f86"
+  },
   "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar": {
     "jarName": "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar",
     "modId": "enhancedcelestials",
