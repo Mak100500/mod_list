@@ -2,5 +2,12 @@
   {"version":2},
   {"ingredient":{"id":"minecraft:stone_pickaxe","components":{"minecraft:damage":38}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"tfmg:raw_lead"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:torch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:shaft"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cooked_beef"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:rheostat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"protection_pixel:hellsnakeloot","recipeType":"create:mechanical_crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"protection_pixel:hunter_helmet","components":{"cold_sweat:armor_insulation":{"insulation":[{"item":{"id":"cold_sweat:hoglin_hide","count":1},"insulation":[{"item":{"items":["cold_sweat:hoglin_hide"]},"type":"item","insulation":{"cold":0.0,"heat":2.0},"required_mods":{},"config_type":"json","id":"5775bd7e-1470-4878-ad0d-03d8f2f5d6aa"}]},{"item":{"id":"cold_sweat:hoglin_hide","count":1},"insulation":[{"item":{"items":["cold_sweat:hoglin_hide"]},"type":"item","insulation":{"cold":0.0,"heat":2.0},"required_mods":{},"config_type":"json","id":"75acdefb-5a21-4c48-87d2-46d44244cda1"}]},{"item":{"id":"cold_sweat:hoglin_hide","count":1},"insulation":[{"item":{"items":["cold_sweat:hoglin_hide"]},"type":"item","insulation":{"cold":0.0,"heat":2.0},"required_mods":{},"config_type":"json","id":"0e430373-0ca1-4b48-b918-f4e346dcf71f"}]},{"item":{"id":"cold_sweat:hoglin_hide","count":1},"insulation":[{"item":{"items":["cold_sweat:hoglin_hide"]},"type":"item","insulation":{"cold":0.0,"heat":2.0},"required_mods":{},"config_type":"json","id":"830071d8-2d97-45ab-a6e9-e8ee30ec6fcb"}]}]},"minecraft:custom_data":{"platetoughness":2,"weight":4,"s1":0,"s2":0,"slot1":"protection_pixel:brassarmorplate","platearmor":4,"slot2":"protection_pixel:brassarmorplate","basicdurable":0},"minecraft:damage":54}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cold_sweat:soul_sprout"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
